@@ -1,0 +1,3361 @@
+[
+  {
+    "id": 1,
+    "name": "earth",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 2,
+    "entityTypeName": "space"
+  },
+  {
+    "id": "35154092",
+    "name": "University of California, Irvine",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6315566",
+              "longitude": "-117.8418829"
+            },
+            {
+              "latitude": "33.6320354",
+              "longitude": "-117.8438398"
+            },
+            {
+              "latitude": "33.6329287",
+              "longitude": "-117.8470155"
+            },
+            {
+              "latitude": "33.6337147",
+              "longitude": "-117.8494617"
+            },
+            {
+              "latitude": "33.6344437",
+              "longitude": "-117.8508779"
+            },
+            {
+              "latitude": "33.6358729",
+              "longitude": "-117.8527834"
+            },
+            {
+              "latitude": "33.6380381",
+              "longitude": "-117.8551008"
+            },
+            {
+              "latitude": "33.6393958",
+              "longitude": "-117.8567316"
+            },
+            {
+              "latitude": "33.6400032",
+              "longitude": "-117.8572294"
+            },
+            {
+              "latitude": "33.6414895",
+              "longitude": "-117.8575727"
+            },
+            {
+              "latitude": "33.6433759",
+              "longitude": "-117.8584739"
+            },
+            {
+              "latitude": "33.6450765",
+              "longitude": "-117.8591005"
+            },
+            {
+              "latitude": "33.6467770",
+              "longitude": "-117.8595297"
+            },
+            {
+              "latitude": "33.6475416",
+              "longitude": "-117.8594610"
+            },
+            {
+              "latitude": "33.6482775",
+              "longitude": "-117.8585340"
+            },
+            {
+              "latitude": "33.6490635",
+              "longitude": "-117.8581564"
+            },
+            {
+              "latitude": "33.6500780",
+              "longitude": "-117.8582765"
+            },
+            {
+              "latitude": "33.6505425",
+              "longitude": "-117.8535215"
+            },
+            {
+              "latitude": "33.6505899",
+              "longitude": "-117.8532664"
+            },
+            {
+              "latitude": "33.6510212",
+              "longitude": "-117.8509466"
+            },
+            {
+              "latitude": "33.6517571",
+              "longitude": "-117.8488180"
+            },
+            {
+              "latitude": "33.6522136",
+              "longitude": "-117.8480263"
+            },
+            {
+              "latitude": "33.6527073",
+              "longitude": "-117.8471700"
+            },
+            {
+              "latitude": "33.6547760",
+              "longitude": "-117.8446845"
+            },
+            {
+              "latitude": "33.6542076",
+              "longitude": "-117.8438960"
+            },
+            {
+              "latitude": "33.6536250",
+              "longitude": "-117.8431359"
+            },
+            {
+              "latitude": "33.6531737",
+              "longitude": "-117.8427271"
+            },
+            {
+              "latitude": "33.6529242",
+              "longitude": "-117.8425589"
+            },
+            {
+              "latitude": "33.6525703",
+              "longitude": "-117.8423712"
+            },
+            {
+              "latitude": "33.6520670",
+              "longitude": "-117.8422104"
+            },
+            {
+              "latitude": "33.6516247",
+              "longitude": "-117.8421232"
+            },
+            {
+              "latitude": "33.6508109",
+              "longitude": "-117.8418239"
+            },
+            {
+              "latitude": "33.6503678",
+              "longitude": "-117.8415291"
+            },
+            {
+              "latitude": "33.6499709",
+              "longitude": "-117.8411619"
+            },
+            {
+              "latitude": "33.6492921",
+              "longitude": "-117.8401663"
+            },
+            {
+              "latitude": "33.6483275",
+              "longitude": "-117.8386213"
+            },
+            {
+              "latitude": "33.6481324",
+              "longitude": "-117.8381350"
+            },
+            {
+              "latitude": "33.6479488",
+              "longitude": "-117.8376772"
+            },
+            {
+              "latitude": "33.6477399",
+              "longitude": "-117.8364888"
+            },
+            {
+              "latitude": "33.6477089",
+              "longitude": "-117.8360873"
+            },
+            {
+              "latitude": "33.6476992",
+              "longitude": "-117.8356792"
+            },
+            {
+              "latitude": "33.6477018",
+              "longitude": "-117.8355384"
+            },
+            {
+              "latitude": "33.6477008",
+              "longitude": "-117.8354903"
+            },
+            {
+              "latitude": "33.6477059",
+              "longitude": "-117.8348705"
+            },
+            {
+              "latitude": "33.6498780",
+              "longitude": "-117.8246137"
+            },
+            {
+              "latitude": "33.6463769",
+              "longitude": "-117.8225538"
+            },
+            {
+              "latitude": "33.6447907",
+              "longitude": "-117.8220217"
+            },
+            {
+              "latitude": "33.6430043",
+              "longitude": "-117.8219358"
+            },
+            {
+              "latitude": "33.6418468",
+              "longitude": "-117.8221247"
+            },
+            {
+              "latitude": "33.6404176",
+              "longitude": "-117.8226825"
+            },
+            {
+              "latitude": "33.6356299",
+              "longitude": "-117.8258583"
+            },
+            {
+              "latitude": "33.6354747",
+              "longitude": "-117.8260065"
+            },
+            {
+              "latitude": "33.6348224",
+              "longitude": "-117.8266737"
+            },
+            {
+              "latitude": "33.6343222",
+              "longitude": "-117.8277036"
+            },
+            {
+              "latitude": "33.6340149",
+              "longitude": "-117.8288624"
+            },
+            {
+              "latitude": "33.6337616",
+              "longitude": "-117.8338888"
+            },
+            {
+              "latitude": "33.6337290",
+              "longitude": "-117.8345873"
+            },
+            {
+              "latitude": "33.6335792",
+              "longitude": "-117.8354815"
+            },
+            {
+              "latitude": "33.6333527",
+              "longitude": "-117.8364001"
+            },
+            {
+              "latitude": "33.6327744",
+              "longitude": "-117.8384369"
+            },
+            {
+              "latitude": "33.6321837",
+              "longitude": "-117.8403270"
+            },
+            {
+              "latitude": "33.6315566",
+              "longitude": "-117.8418829"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "365183897",
+    "name": "Anteater Ballpark/Newkirk Pavilion",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6524897",
+              "longitude": "-117.8463319"
+            },
+            {
+              "latitude": "33.6525076",
+              "longitude": "-117.8462320"
+            },
+            {
+              "latitude": "33.6525377",
+              "longitude": "-117.8462434"
+            },
+            {
+              "latitude": "33.6525444",
+              "longitude": "-117.8462004"
+            },
+            {
+              "latitude": "33.6525159",
+              "longitude": "-117.8461951"
+            },
+            {
+              "latitude": "33.6525176",
+              "longitude": "-117.8461823"
+            },
+            {
+              "latitude": "33.6524953",
+              "longitude": "-117.8461776"
+            },
+            {
+              "latitude": "33.6525171",
+              "longitude": "-117.8460622"
+            },
+            {
+              "latitude": "33.6524182",
+              "longitude": "-117.8460347"
+            },
+            {
+              "latitude": "33.6524110",
+              "longitude": "-117.8460757"
+            },
+            {
+              "latitude": "33.6521865",
+              "longitude": "-117.8460119"
+            },
+            {
+              "latitude": "33.6521496",
+              "longitude": "-117.8461709"
+            },
+            {
+              "latitude": "33.6523406",
+              "longitude": "-117.8462145"
+            },
+            {
+              "latitude": "33.6523294",
+              "longitude": "-117.8462876"
+            },
+            {
+              "latitude": "33.6524897",
+              "longitude": "-117.8463319"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "631379319",
+    "name": "Anteater Learning Pavilion",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6469246",
+              "longitude": "-117.8441141"
+            },
+            {
+              "latitude": "33.6469152",
+              "longitude": "-117.8441275"
+            },
+            {
+              "latitude": "33.6468892",
+              "longitude": "-117.8441077"
+            },
+            {
+              "latitude": "33.6467108",
+              "longitude": "-117.8442813"
+            },
+            {
+              "latitude": "33.6467907",
+              "longitude": "-117.8443256"
+            },
+            {
+              "latitude": "33.6467640",
+              "longitude": "-117.8443829"
+            },
+            {
+              "latitude": "33.6469578",
+              "longitude": "-117.8445005"
+            },
+            {
+              "latitude": "33.6469147",
+              "longitude": "-117.8446105"
+            },
+            {
+              "latitude": "33.6469035",
+              "longitude": "-117.8446757"
+            },
+            {
+              "latitude": "33.6469200",
+              "longitude": "-117.8447422"
+            },
+            {
+              "latitude": "33.6469525",
+              "longitude": "-117.8447926"
+            },
+            {
+              "latitude": "33.6470010",
+              "longitude": "-117.8448423"
+            },
+            {
+              "latitude": "33.6470709",
+              "longitude": "-117.8448568"
+            },
+            {
+              "latitude": "33.6471361",
+              "longitude": "-117.8448447"
+            },
+            {
+              "latitude": "33.6471734",
+              "longitude": "-117.8448100"
+            },
+            {
+              "latitude": "33.6472363",
+              "longitude": "-117.8446573"
+            },
+            {
+              "latitude": "33.6473303",
+              "longitude": "-117.8447118"
+            },
+            {
+              "latitude": "33.6473493",
+              "longitude": "-117.8446536"
+            },
+            {
+              "latitude": "33.6474091",
+              "longitude": "-117.8446015"
+            },
+            {
+              "latitude": "33.6474719",
+              "longitude": "-117.8444501"
+            },
+            {
+              "latitude": "33.6469246",
+              "longitude": "-117.8441141"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184960300",
+    "name": "Anteater Recreation Center (ARC)",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6434094",
+              "longitude": "-117.8276345"
+            },
+            {
+              "latitude": "33.6434677",
+              "longitude": "-117.8273617"
+            },
+            {
+              "latitude": "33.6431377",
+              "longitude": "-117.8272601"
+            },
+            {
+              "latitude": "33.6431176",
+              "longitude": "-117.8273540"
+            },
+            {
+              "latitude": "33.6430067",
+              "longitude": "-117.8273199"
+            },
+            {
+              "latitude": "33.6429664",
+              "longitude": "-117.8275086"
+            },
+            {
+              "latitude": "33.6432566",
+              "longitude": "-117.8275980"
+            },
+            {
+              "latitude": "33.6431194",
+              "longitude": "-117.8282851"
+            },
+            {
+              "latitude": "33.6432259",
+              "longitude": "-117.8283158"
+            },
+            {
+              "latitude": "33.6432050",
+              "longitude": "-117.8284206"
+            },
+            {
+              "latitude": "33.6428641",
+              "longitude": "-117.8284573"
+            },
+            {
+              "latitude": "33.6428794",
+              "longitude": "-117.8286630"
+            },
+            {
+              "latitude": "33.6430274",
+              "longitude": "-117.8286470"
+            },
+            {
+              "latitude": "33.6430331",
+              "longitude": "-117.8287223"
+            },
+            {
+              "latitude": "33.6434812",
+              "longitude": "-117.8286740"
+            },
+            {
+              "latitude": "33.6434765",
+              "longitude": "-117.8285857"
+            },
+            {
+              "latitude": "33.6434687",
+              "longitude": "-117.8285077"
+            },
+            {
+              "latitude": "33.6436000",
+              "longitude": "-117.8284894"
+            },
+            {
+              "latitude": "33.6437848",
+              "longitude": "-117.8275645"
+            },
+            {
+              "latitude": "33.6434713",
+              "longitude": "-117.8274742"
+            },
+            {
+              "latitude": "33.6434376",
+              "longitude": "-117.8276426"
+            },
+            {
+              "latitude": "33.6434094",
+              "longitude": "-117.8276345"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "480242760",
+    "name": "Arboretum",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6650906",
+              "longitude": "-117.8529925"
+            },
+            {
+              "latitude": "33.6638895",
+              "longitude": "-117.8512631"
+            },
+            {
+              "latitude": "33.6632235",
+              "longitude": "-117.8520882"
+            },
+            {
+              "latitude": "33.6619097",
+              "longitude": "-117.8537161"
+            },
+            {
+              "latitude": "33.6627350",
+              "longitude": "-117.8545420"
+            },
+            {
+              "latitude": "33.6631407",
+              "longitude": "-117.8541767"
+            },
+            {
+              "latitude": "33.6633506",
+              "longitude": "-117.8539916"
+            },
+            {
+              "latitude": "33.6634488",
+              "longitude": "-117.8539433"
+            },
+            {
+              "latitude": "33.6635604",
+              "longitude": "-117.8539246"
+            },
+            {
+              "latitude": "33.6637173",
+              "longitude": "-117.8539662"
+            },
+            {
+              "latitude": "33.6639027",
+              "longitude": "-117.8540400"
+            },
+            {
+              "latitude": "33.6640828",
+              "longitude": "-117.8539943"
+            },
+            {
+              "latitude": "33.6644262",
+              "longitude": "-117.8536595"
+            },
+            {
+              "latitude": "33.6650906",
+              "longitude": "-117.8529925"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171169245",
+    "name": "Ayala Science Library",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6456987",
+              "longitude": "-117.8463016"
+            },
+            {
+              "latitude": "33.6456852",
+              "longitude": "-117.8463161"
+            },
+            {
+              "latitude": "33.6456554",
+              "longitude": "-117.8463568"
+            },
+            {
+              "latitude": "33.6456279",
+              "longitude": "-117.8464123"
+            },
+            {
+              "latitude": "33.6456043",
+              "longitude": "-117.8465210"
+            },
+            {
+              "latitude": "33.6456097",
+              "longitude": "-117.8466145"
+            },
+            {
+              "latitude": "33.6456381",
+              "longitude": "-117.8467030"
+            },
+            {
+              "latitude": "33.6456726",
+              "longitude": "-117.8467600"
+            },
+            {
+              "latitude": "33.6457262",
+              "longitude": "-117.8468077"
+            },
+            {
+              "latitude": "33.6457255",
+              "longitude": "-117.8468806"
+            },
+            {
+              "latitude": "33.6454738",
+              "longitude": "-117.8468772"
+            },
+            {
+              "latitude": "33.6454724",
+              "longitude": "-117.8470265"
+            },
+            {
+              "latitude": "33.6454711",
+              "longitude": "-117.8471587"
+            },
+            {
+              "latitude": "33.6455926",
+              "longitude": "-117.8471604"
+            },
+            {
+              "latitude": "33.6455938",
+              "longitude": "-117.8470275"
+            },
+            {
+              "latitude": "33.6458499",
+              "longitude": "-117.8470309"
+            },
+            {
+              "latitude": "33.6461412",
+              "longitude": "-117.8470349"
+            },
+            {
+              "latitude": "33.6461399",
+              "longitude": "-117.8471702"
+            },
+            {
+              "latitude": "33.6462614",
+              "longitude": "-117.8471718"
+            },
+            {
+              "latitude": "33.6462631",
+              "longitude": "-117.8470011"
+            },
+            {
+              "latitude": "33.6462623",
+              "longitude": "-117.8470011"
+            },
+            {
+              "latitude": "33.6462633",
+              "longitude": "-117.8468879"
+            },
+            {
+              "latitude": "33.6460152",
+              "longitude": "-117.8468845"
+            },
+            {
+              "latitude": "33.6460157",
+              "longitude": "-117.8468250"
+            },
+            {
+              "latitude": "33.6460159",
+              "longitude": "-117.8468057"
+            },
+            {
+              "latitude": "33.6460548",
+              "longitude": "-117.8467708"
+            },
+            {
+              "latitude": "33.6461046",
+              "longitude": "-117.8466878"
+            },
+            {
+              "latitude": "33.6461267",
+              "longitude": "-117.8466123"
+            },
+            {
+              "latitude": "33.6461324",
+              "longitude": "-117.8465570"
+            },
+            {
+              "latitude": "33.6461285",
+              "longitude": "-117.8464907"
+            },
+            {
+              "latitude": "33.6461059",
+              "longitude": "-117.8464070"
+            },
+            {
+              "latitude": "33.6460501",
+              "longitude": "-117.8463154"
+            },
+            {
+              "latitude": "33.6460165",
+              "longitude": "-117.8462882"
+            },
+            {
+              "latitude": "33.6460213",
+              "longitude": "-117.8460541"
+            },
+            {
+              "latitude": "33.6459121",
+              "longitude": "-117.8460509"
+            },
+            {
+              "latitude": "33.6459084",
+              "longitude": "-117.8462334"
+            },
+            {
+              "latitude": "33.6458712",
+              "longitude": "-117.8462269"
+            },
+            {
+              "latitude": "33.6458376",
+              "longitude": "-117.8462335"
+            },
+            {
+              "latitude": "33.6458382",
+              "longitude": "-117.8460452"
+            },
+            {
+              "latitude": "33.6457297",
+              "longitude": "-117.8460447"
+            },
+            {
+              "latitude": "33.6457289",
+              "longitude": "-117.8462802"
+            },
+            {
+              "latitude": "33.6456987",
+              "longitude": "-117.8463016"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993831",
+    "name": "Banning House",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6461538",
+              "longitude": "-117.8370942"
+            },
+            {
+              "latitude": "33.6462470",
+              "longitude": "-117.8369812"
+            },
+            {
+              "latitude": "33.6462200",
+              "longitude": "-117.8369494"
+            },
+            {
+              "latitude": "33.6462716",
+              "longitude": "-117.8368795"
+            },
+            {
+              "latitude": "33.6464012",
+              "longitude": "-117.8368827"
+            },
+            {
+              "latitude": "33.6464021",
+              "longitude": "-117.8368286"
+            },
+            {
+              "latitude": "33.6461345",
+              "longitude": "-117.8368219"
+            },
+            {
+              "latitude": "33.6461340",
+              "longitude": "-117.8368505"
+            },
+            {
+              "latitude": "33.6460340",
+              "longitude": "-117.8368480"
+            },
+            {
+              "latitude": "33.6460335",
+              "longitude": "-117.8368765"
+            },
+            {
+              "latitude": "33.6460139",
+              "longitude": "-117.8368760"
+            },
+            {
+              "latitude": "33.6460121",
+              "longitude": "-117.8369790"
+            },
+            {
+              "latitude": "33.6460613",
+              "longitude": "-117.8369802"
+            },
+            {
+              "latitude": "33.6461538",
+              "longitude": "-117.8370942"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171557397",
+    "name": "Beckman Laser Institute",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6445450",
+              "longitude": "-117.8503769"
+            },
+            {
+              "latitude": "33.6445471",
+              "longitude": "-117.8501157"
+            },
+            {
+              "latitude": "33.6444876",
+              "longitude": "-117.8501151"
+            },
+            {
+              "latitude": "33.6444910",
+              "longitude": "-117.8496783"
+            },
+            {
+              "latitude": "33.6439443",
+              "longitude": "-117.8496722"
+            },
+            {
+              "latitude": "33.6439399",
+              "longitude": "-117.8502359"
+            },
+            {
+              "latitude": "33.6442983",
+              "longitude": "-117.8502400"
+            },
+            {
+              "latitude": "33.6442973",
+              "longitude": "-117.8503741"
+            },
+            {
+              "latitude": "33.6445450",
+              "longitude": "-117.8503769"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171557395",
+    "name": "Berk Hall/Nursing Science",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6462478",
+              "longitude": "-117.8495991"
+            },
+            {
+              "latitude": "33.6463649",
+              "longitude": "-117.8495990"
+            },
+            {
+              "latitude": "33.6463647",
+              "longitude": "-117.8492998"
+            },
+            {
+              "latitude": "33.6460494",
+              "longitude": "-117.8493000"
+            },
+            {
+              "latitude": "33.6460496",
+              "longitude": "-117.8497423"
+            },
+            {
+              "latitude": "33.6462478",
+              "longitude": "-117.8497422"
+            },
+            {
+              "latitude": "33.6462478",
+              "longitude": "-117.8495991"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "365429816",
+    "name": "Bison Modular",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6436942",
+              "longitude": "-117.8465569"
+            },
+            {
+              "latitude": "33.6437255",
+              "longitude": "-117.8465945"
+            },
+            {
+              "latitude": "33.6439577",
+              "longitude": "-117.8462954"
+            },
+            {
+              "latitude": "33.6439242",
+              "longitude": "-117.8462565"
+            },
+            {
+              "latitude": "33.6439477",
+              "longitude": "-117.8462284"
+            },
+            {
+              "latitude": "33.6438159",
+              "longitude": "-117.8460849"
+            },
+            {
+              "latitude": "33.6437958",
+              "longitude": "-117.8461117"
+            },
+            {
+              "latitude": "33.6437724",
+              "longitude": "-117.8460902"
+            },
+            {
+              "latitude": "33.6436730",
+              "longitude": "-117.8462136"
+            },
+            {
+              "latitude": "33.6437679",
+              "longitude": "-117.8463209"
+            },
+            {
+              "latitude": "33.6437344",
+              "longitude": "-117.8463611"
+            },
+            {
+              "latitude": "33.6436395",
+              "longitude": "-117.8462619"
+            },
+            {
+              "latitude": "33.6435413",
+              "longitude": "-117.8463853"
+            },
+            {
+              "latitude": "33.6435669",
+              "longitude": "-117.8464161"
+            },
+            {
+              "latitude": "33.6435457",
+              "longitude": "-117.8464537"
+            },
+            {
+              "latitude": "33.6436730",
+              "longitude": "-117.8465891"
+            },
+            {
+              "latitude": "33.6436942",
+              "longitude": "-117.8465569"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171170900",
+    "name": "Bren Events Center",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6491803",
+              "longitude": "-117.8473858"
+            },
+            {
+              "latitude": "33.6492807",
+              "longitude": "-117.8475840"
+            },
+            {
+              "latitude": "33.6493143",
+              "longitude": "-117.8475595"
+            },
+            {
+              "latitude": "33.6496342",
+              "longitude": "-117.8473257"
+            },
+            {
+              "latitude": "33.6496785",
+              "longitude": "-117.8472933"
+            },
+            {
+              "latitude": "33.6497189",
+              "longitude": "-117.8473730"
+            },
+            {
+              "latitude": "33.6499309",
+              "longitude": "-117.8472180"
+            },
+            {
+              "latitude": "33.6498818",
+              "longitude": "-117.8471211"
+            },
+            {
+              "latitude": "33.6498577",
+              "longitude": "-117.8471387"
+            },
+            {
+              "latitude": "33.6498080",
+              "longitude": "-117.8470407"
+            },
+            {
+              "latitude": "33.6498589",
+              "longitude": "-117.8470035"
+            },
+            {
+              "latitude": "33.6496524",
+              "longitude": "-117.8465958"
+            },
+            {
+              "latitude": "33.6496318",
+              "longitude": "-117.8466109"
+            },
+            {
+              "latitude": "33.6495925",
+              "longitude": "-117.8465333"
+            },
+            {
+              "latitude": "33.6496131",
+              "longitude": "-117.8465182"
+            },
+            {
+              "latitude": "33.6495132",
+              "longitude": "-117.8463210"
+            },
+            {
+              "latitude": "33.6494034",
+              "longitude": "-117.8464013"
+            },
+            {
+              "latitude": "33.6494215",
+              "longitude": "-117.8464370"
+            },
+            {
+              "latitude": "33.6493400",
+              "longitude": "-117.8464965"
+            },
+            {
+              "latitude": "33.6493239",
+              "longitude": "-117.8464647"
+            },
+            {
+              "latitude": "33.6492799",
+              "longitude": "-117.8464969"
+            },
+            {
+              "latitude": "33.6491983",
+              "longitude": "-117.8465565"
+            },
+            {
+              "latitude": "33.6492746",
+              "longitude": "-117.8467070"
+            },
+            {
+              "latitude": "33.6489549",
+              "longitude": "-117.8469407"
+            },
+            {
+              "latitude": "33.6490434",
+              "longitude": "-117.8471155"
+            },
+            {
+              "latitude": "33.6489774",
+              "longitude": "-117.8471638"
+            },
+            {
+              "latitude": "33.6490156",
+              "longitude": "-117.8472392"
+            },
+            {
+              "latitude": "33.6489376",
+              "longitude": "-117.8472961"
+            },
+            {
+              "latitude": "33.6490364",
+              "longitude": "-117.8474911"
+            },
+            {
+              "latitude": "33.6491803",
+              "longitude": "-117.8473858"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171572472",
+    "name": "Centerpointe",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6572255",
+              "longitude": "-117.8610038"
+            },
+            {
+              "latitude": "33.6572566",
+              "longitude": "-117.8607448"
+            },
+            {
+              "latitude": "33.6566555",
+              "longitude": "-117.8606406"
+            },
+            {
+              "latitude": "33.6566244",
+              "longitude": "-117.8608996"
+            },
+            {
+              "latitude": "33.6572255",
+              "longitude": "-117.8610038"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "707967163",
+    "name": "Child Development Center",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6630575",
+              "longitude": "-117.8567534"
+            },
+            {
+              "latitude": "33.6629273",
+              "longitude": "-117.8565656"
+            },
+            {
+              "latitude": "33.6627545",
+              "longitude": "-117.8567386"
+            },
+            {
+              "latitude": "33.6628848",
+              "longitude": "-117.8569264"
+            },
+            {
+              "latitude": "33.6630575",
+              "longitude": "-117.8567534"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "707967164",
+    "name": "Childrens Center",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6628075",
+              "longitude": "-117.8568885"
+            },
+            {
+              "latitude": "33.6625008",
+              "longitude": "-117.8571935"
+            },
+            {
+              "latitude": "33.6624165",
+              "longitude": "-117.8570713"
+            },
+            {
+              "latitude": "33.6627232",
+              "longitude": "-117.8567661"
+            },
+            {
+              "latitude": "33.6628075",
+              "longitude": "-117.8568885"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184960301",
+    "name": "Court Building",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6435776",
+              "longitude": "-117.8268874"
+            },
+            {
+              "latitude": "33.6436025",
+              "longitude": "-117.8267865"
+            },
+            {
+              "latitude": "33.6434361",
+              "longitude": "-117.8267272"
+            },
+            {
+              "latitude": "33.6434112",
+              "longitude": "-117.8268280"
+            },
+            {
+              "latitude": "33.6435776",
+              "longitude": "-117.8268874"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171550880",
+    "name": "Education Building",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6469840",
+              "longitude": "-117.8359404"
+            },
+            {
+              "latitude": "33.6470818",
+              "longitude": "-117.8359504"
+            },
+            {
+              "latitude": "33.6471768",
+              "longitude": "-117.8359959"
+            },
+            {
+              "latitude": "33.6472719",
+              "longitude": "-117.8360757"
+            },
+            {
+              "latitude": "33.6473531",
+              "longitude": "-117.8361920"
+            },
+            {
+              "latitude": "33.6475515",
+              "longitude": "-117.8360358"
+            },
+            {
+              "latitude": "33.6474481",
+              "longitude": "-117.8358762"
+            },
+            {
+              "latitude": "33.6474656",
+              "longitude": "-117.8358496"
+            },
+            {
+              "latitude": "33.6473272",
+              "longitude": "-117.8357298"
+            },
+            {
+              "latitude": "33.6473355",
+              "longitude": "-117.8357032"
+            },
+            {
+              "latitude": "33.6471741",
+              "longitude": "-117.8356223"
+            },
+            {
+              "latitude": "33.6471778",
+              "longitude": "-117.8355946"
+            },
+            {
+              "latitude": "33.6469923",
+              "longitude": "-117.8355680"
+            },
+            {
+              "latitude": "33.6469840",
+              "longitude": "-117.8359404"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993874",
+    "name": "Electrical Substation",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6407044",
+              "longitude": "-117.8501548"
+            },
+            {
+              "latitude": "33.6406592",
+              "longitude": "-117.8494896"
+            },
+            {
+              "latitude": "33.6399745",
+              "longitude": "-117.8495524"
+            },
+            {
+              "latitude": "33.6400151",
+              "longitude": "-117.8502134"
+            },
+            {
+              "latitude": "33.6407044",
+              "longitude": "-117.8501548"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184960302",
+    "name": "Field Building",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6422077",
+              "longitude": "-117.8261009"
+            },
+            {
+              "latitude": "33.6422232",
+              "longitude": "-117.8260288"
+            },
+            {
+              "latitude": "33.6421665",
+              "longitude": "-117.8260112"
+            },
+            {
+              "latitude": "33.6421510",
+              "longitude": "-117.8260833"
+            },
+            {
+              "latitude": "33.6422077",
+              "longitude": "-117.8261009"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "365182747",
+    "name": "Gavin Herbert Eye Institute",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6419420",
+              "longitude": "-117.8523792"
+            },
+            {
+              "latitude": "33.6419152",
+              "longitude": "-117.8523363"
+            },
+            {
+              "latitude": "33.6419174",
+              "longitude": "-117.8520305"
+            },
+            {
+              "latitude": "33.6418103",
+              "longitude": "-117.8520359"
+            },
+            {
+              "latitude": "33.6418080",
+              "longitude": "-117.8519581"
+            },
+            {
+              "latitude": "33.6415713",
+              "longitude": "-117.8519581"
+            },
+            {
+              "latitude": "33.6415669",
+              "longitude": "-117.8525482"
+            },
+            {
+              "latitude": "33.6416227",
+              "longitude": "-117.8525482"
+            },
+            {
+              "latitude": "33.6416227",
+              "longitude": "-117.8526125"
+            },
+            {
+              "latitude": "33.6417991",
+              "longitude": "-117.8525455"
+            },
+            {
+              "latitude": "33.6417991",
+              "longitude": "-117.8524972"
+            },
+            {
+              "latitude": "33.6419420",
+              "longitude": "-117.8523792"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171557394",
+    "name": "Gillespie Neuroscience Research Facility",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6437878",
+              "longitude": "-117.8514796"
+            },
+            {
+              "latitude": "33.6443256",
+              "longitude": "-117.8514872"
+            },
+            {
+              "latitude": "33.6442859",
+              "longitude": "-117.8510590"
+            },
+            {
+              "latitude": "33.6437890",
+              "longitude": "-117.8510570"
+            },
+            {
+              "latitude": "33.6437878",
+              "longitude": "-117.8514796"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993886",
+    "name": "Gottschalk Medical Plaza",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6469445",
+              "longitude": "-117.8514928"
+            },
+            {
+              "latitude": "33.6472075",
+              "longitude": "-117.8511906"
+            },
+            {
+              "latitude": "33.6467680",
+              "longitude": "-117.8506385"
+            },
+            {
+              "latitude": "33.6466743",
+              "longitude": "-117.8507985"
+            },
+            {
+              "latitude": "33.6466453",
+              "longitude": "-117.8511393"
+            },
+            {
+              "latitude": "33.6469445",
+              "longitude": "-117.8514928"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993832",
+    "name": "Hewitt Research Hall",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6433824",
+              "longitude": "-117.8522867"
+            },
+            {
+              "latitude": "33.6433829",
+              "longitude": "-117.8523305"
+            },
+            {
+              "latitude": "33.6435489",
+              "longitude": "-117.8523277"
+            },
+            {
+              "latitude": "33.6435484",
+              "longitude": "-117.8522877"
+            },
+            {
+              "latitude": "33.6436262",
+              "longitude": "-117.8522882"
+            },
+            {
+              "latitude": "33.6436278",
+              "longitude": "-117.8519268"
+            },
+            {
+              "latitude": "33.6437511",
+              "longitude": "-117.8519327"
+            },
+            {
+              "latitude": "33.6437495",
+              "longitude": "-117.8517945"
+            },
+            {
+              "latitude": "33.6433517",
+              "longitude": "-117.8517432"
+            },
+            {
+              "latitude": "33.6433352",
+              "longitude": "-117.8517846"
+            },
+            {
+              "latitude": "33.6433073",
+              "longitude": "-117.8518202"
+            },
+            {
+              "latitude": "33.6432711",
+              "longitude": "-117.8518399"
+            },
+            {
+              "latitude": "33.6432826",
+              "longitude": "-117.8518952"
+            },
+            {
+              "latitude": "33.6433155",
+              "longitude": "-117.8518715"
+            },
+            {
+              "latitude": "33.6433089",
+              "longitude": "-117.8522862"
+            },
+            {
+              "latitude": "33.6433824",
+              "longitude": "-117.8522867"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "157979850",
+    "name": "Information & Computer Science",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6442877",
+              "longitude": "-117.8421001"
+            },
+            {
+              "latitude": "33.6445459",
+              "longitude": "-117.8417032"
+            },
+            {
+              "latitude": "33.6442795",
+              "longitude": "-117.8414532"
+            },
+            {
+              "latitude": "33.6440213",
+              "longitude": "-117.8418500"
+            },
+            {
+              "latitude": "33.6442877",
+              "longitude": "-117.8421001"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993887",
+    "name": "Irvine Hall",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6451520",
+              "longitude": "-117.8527504"
+            },
+            {
+              "latitude": "33.6451602",
+              "longitude": "-117.8519112"
+            },
+            {
+              "latitude": "33.6449794",
+              "longitude": "-117.8519086"
+            },
+            {
+              "latitude": "33.6449739",
+              "longitude": "-117.8524672"
+            },
+            {
+              "latitude": "33.6444722",
+              "longitude": "-117.8524601"
+            },
+            {
+              "latitude": "33.6444695",
+              "longitude": "-117.8527407"
+            },
+            {
+              "latitude": "33.6451520",
+              "longitude": "-117.8527504"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171550906",
+    "name": "Law Building",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6468731",
+              "longitude": "-117.8362202"
+            },
+            {
+              "latitude": "33.6468801",
+              "longitude": "-117.8355594"
+            },
+            {
+              "latitude": "33.6467617",
+              "longitude": "-117.8355576"
+            },
+            {
+              "latitude": "33.6467614",
+              "longitude": "-117.8355939"
+            },
+            {
+              "latitude": "33.6467116",
+              "longitude": "-117.8355931"
+            },
+            {
+              "latitude": "33.6467108",
+              "longitude": "-117.8356630"
+            },
+            {
+              "latitude": "33.6466631",
+              "longitude": "-117.8356623"
+            },
+            {
+              "latitude": "33.6466572",
+              "longitude": "-117.8362168"
+            },
+            {
+              "latitude": "33.6468731",
+              "longitude": "-117.8362202"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993829",
+    "name": "Medical Education Building",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6445447",
+              "longitude": "-117.8522327"
+            },
+            {
+              "latitude": "33.6445336",
+              "longitude": "-117.8523233"
+            },
+            {
+              "latitude": "33.6448165",
+              "longitude": "-117.8523271"
+            },
+            {
+              "latitude": "33.6448214",
+              "longitude": "-117.8518058"
+            },
+            {
+              "latitude": "33.6446981",
+              "longitude": "-117.8517979"
+            },
+            {
+              "latitude": "33.6446236",
+              "longitude": "-117.8519342"
+            },
+            {
+              "latitude": "33.6445847",
+              "longitude": "-117.8519184"
+            },
+            {
+              "latitude": "33.6445987",
+              "longitude": "-117.8517798"
+            },
+            {
+              "latitude": "33.6445107",
+              "longitude": "-117.8517742"
+            },
+            {
+              "latitude": "33.6444680",
+              "longitude": "-117.8520487"
+            },
+            {
+              "latitude": "33.6443957",
+              "longitude": "-117.8523014"
+            },
+            {
+              "latitude": "33.6444836",
+              "longitude": "-117.8523485"
+            },
+            {
+              "latitude": "33.6445206",
+              "longitude": "-117.8522185"
+            },
+            {
+              "latitude": "33.6445447",
+              "longitude": "-117.8522327"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993827",
+    "name": "Medical Sciences A",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6450385",
+              "longitude": "-117.8495948"
+            },
+            {
+              "latitude": "33.6447209",
+              "longitude": "-117.8495913"
+            },
+            {
+              "latitude": "33.6447211",
+              "longitude": "-117.8497325"
+            },
+            {
+              "latitude": "33.6448164",
+              "longitude": "-117.8497359"
+            },
+            {
+              "latitude": "33.6448163",
+              "longitude": "-117.8498000"
+            },
+            {
+              "latitude": "33.6449408",
+              "longitude": "-117.8498091"
+            },
+            {
+              "latitude": "33.6450657",
+              "longitude": "-117.8499582"
+            },
+            {
+              "latitude": "33.6450613",
+              "longitude": "-117.8500757"
+            },
+            {
+              "latitude": "33.6452000",
+              "longitude": "-117.8500810"
+            },
+            {
+              "latitude": "33.6452036",
+              "longitude": "-117.8497952"
+            },
+            {
+              "latitude": "33.6450385",
+              "longitude": "-117.8495948"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171557393",
+    "name": "Medical Sciences A Annex",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6449821",
+              "longitude": "-117.8505650"
+            },
+            {
+              "latitude": "33.6449841",
+              "longitude": "-117.8502422"
+            },
+            {
+              "latitude": "33.6446686",
+              "longitude": "-117.8502393"
+            },
+            {
+              "latitude": "33.6446666",
+              "longitude": "-117.8505622"
+            },
+            {
+              "latitude": "33.6449821",
+              "longitude": "-117.8505650"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "178680116",
+    "name": "Medical Sciences B",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6455446",
+              "longitude": "-117.8496051"
+            },
+            {
+              "latitude": "33.6452066",
+              "longitude": "-117.8496014"
+            },
+            {
+              "latitude": "33.6452050",
+              "longitude": "-117.8497863"
+            },
+            {
+              "latitude": "33.6452391",
+              "longitude": "-117.8498235"
+            },
+            {
+              "latitude": "33.6453706",
+              "longitude": "-117.8498300"
+            },
+            {
+              "latitude": "33.6455140",
+              "longitude": "-117.8500075"
+            },
+            {
+              "latitude": "33.6455138",
+              "longitude": "-117.8501137"
+            },
+            {
+              "latitude": "33.6455642",
+              "longitude": "-117.8501138"
+            },
+            {
+              "latitude": "33.6455641",
+              "longitude": "-117.8501853"
+            },
+            {
+              "latitude": "33.6455872",
+              "longitude": "-117.8501853"
+            },
+            {
+              "latitude": "33.6455872",
+              "longitude": "-117.8502072"
+            },
+            {
+              "latitude": "33.6457024",
+              "longitude": "-117.8502075"
+            },
+            {
+              "latitude": "33.6457029",
+              "longitude": "-117.8498005"
+            },
+            {
+              "latitude": "33.6455446",
+              "longitude": "-117.8496051"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "178680117",
+    "name": "Medical Sciences C",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6455344",
+              "longitude": "-117.8502022"
+            },
+            {
+              "latitude": "33.6451964",
+              "longitude": "-117.8501985"
+            },
+            {
+              "latitude": "33.6451948",
+              "longitude": "-117.8503834"
+            },
+            {
+              "latitude": "33.6452289",
+              "longitude": "-117.8504206"
+            },
+            {
+              "latitude": "33.6453604",
+              "longitude": "-117.8504271"
+            },
+            {
+              "latitude": "33.6455038",
+              "longitude": "-117.8506046"
+            },
+            {
+              "latitude": "33.6455036",
+              "longitude": "-117.8507109"
+            },
+            {
+              "latitude": "33.6455540",
+              "longitude": "-117.8507110"
+            },
+            {
+              "latitude": "33.6455539",
+              "longitude": "-117.8507824"
+            },
+            {
+              "latitude": "33.6455770",
+              "longitude": "-117.8507825"
+            },
+            {
+              "latitude": "33.6455770",
+              "longitude": "-117.8508044"
+            },
+            {
+              "latitude": "33.6456922",
+              "longitude": "-117.8508046"
+            },
+            {
+              "latitude": "33.6456927",
+              "longitude": "-117.8503976"
+            },
+            {
+              "latitude": "33.6455344",
+              "longitude": "-117.8502022"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "178680115",
+    "name": "Medical Sciences D, Cheney Hall",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6455269",
+              "longitude": "-117.8507922"
+            },
+            {
+              "latitude": "33.6451888",
+              "longitude": "-117.8507885"
+            },
+            {
+              "latitude": "33.6451873",
+              "longitude": "-117.8509734"
+            },
+            {
+              "latitude": "33.6452213",
+              "longitude": "-117.8510105"
+            },
+            {
+              "latitude": "33.6453528",
+              "longitude": "-117.8510171"
+            },
+            {
+              "latitude": "33.6454962",
+              "longitude": "-117.8511945"
+            },
+            {
+              "latitude": "33.6454961",
+              "longitude": "-117.8513008"
+            },
+            {
+              "latitude": "33.6455464",
+              "longitude": "-117.8513009"
+            },
+            {
+              "latitude": "33.6455463",
+              "longitude": "-117.8513724"
+            },
+            {
+              "latitude": "33.6455694",
+              "longitude": "-117.8513724"
+            },
+            {
+              "latitude": "33.6455694",
+              "longitude": "-117.8513943"
+            },
+            {
+              "latitude": "33.6456846",
+              "longitude": "-117.8513945"
+            },
+            {
+              "latitude": "33.6456851",
+              "longitude": "-117.8509876"
+            },
+            {
+              "latitude": "33.6455269",
+              "longitude": "-117.8507922"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993841",
+    "name": "Medical Sciences E",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6451786",
+              "longitude": "-117.8514183"
+            },
+            {
+              "latitude": "33.6452922",
+              "longitude": "-117.8515560"
+            },
+            {
+              "latitude": "33.6455725",
+              "longitude": "-117.8515579"
+            },
+            {
+              "latitude": "33.6455732",
+              "longitude": "-117.8514209"
+            },
+            {
+              "latitude": "33.6451786",
+              "longitude": "-117.8514183"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993896",
+    "name": "Medical Surge I",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6461538",
+              "longitude": "-117.8504929"
+            },
+            {
+              "latitude": "33.6462719",
+              "longitude": "-117.8504928"
+            },
+            {
+              "latitude": "33.6462718",
+              "longitude": "-117.8502976"
+            },
+            {
+              "latitude": "33.6466730",
+              "longitude": "-117.8502974"
+            },
+            {
+              "latitude": "33.6466728",
+              "longitude": "-117.8499199"
+            },
+            {
+              "latitude": "33.6462717",
+              "longitude": "-117.8499201"
+            },
+            {
+              "latitude": "33.6462716",
+              "longitude": "-117.8498224"
+            },
+            {
+              "latitude": "33.6461535",
+              "longitude": "-117.8498225"
+            },
+            {
+              "latitude": "33.6461538",
+              "longitude": "-117.8504929"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171557392",
+    "name": "Medical Surge II",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6469216",
+              "longitude": "-117.8498107"
+            },
+            {
+              "latitude": "33.6469222",
+              "longitude": "-117.8497544"
+            },
+            {
+              "latitude": "33.6468658",
+              "longitude": "-117.8497536"
+            },
+            {
+              "latitude": "33.6468668",
+              "longitude": "-117.8496572"
+            },
+            {
+              "latitude": "33.6466058",
+              "longitude": "-117.8496532"
+            },
+            {
+              "latitude": "33.6466071",
+              "longitude": "-117.8495251"
+            },
+            {
+              "latitude": "33.6464856",
+              "longitude": "-117.8495233"
+            },
+            {
+              "latitude": "33.6464820",
+              "longitude": "-117.8498598"
+            },
+            {
+              "latitude": "33.6467778",
+              "longitude": "-117.8498642"
+            },
+            {
+              "latitude": "33.6467709",
+              "longitude": "-117.8505245"
+            },
+            {
+              "latitude": "33.6471152",
+              "longitude": "-117.8505297"
+            },
+            {
+              "latitude": "33.6471195",
+              "longitude": "-117.8501153"
+            },
+            {
+              "latitude": "33.6469516",
+              "longitude": "-117.8501127"
+            },
+            {
+              "latitude": "33.6469548",
+              "longitude": "-117.8498112"
+            },
+            {
+              "latitude": "33.6469216",
+              "longitude": "-117.8498107"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "158056899",
+    "name": "Mesa Office Building",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6511893",
+              "longitude": "-117.8464929"
+            },
+            {
+              "latitude": "33.6513340",
+              "longitude": "-117.8464816"
+            },
+            {
+              "latitude": "33.6513201",
+              "longitude": "-117.8461867"
+            },
+            {
+              "latitude": "33.6511770",
+              "longitude": "-117.8461931"
+            },
+            {
+              "latitude": "33.6511752",
+              "longitude": "-117.8461670"
+            },
+            {
+              "latitude": "33.6510890",
+              "longitude": "-117.8461727"
+            },
+            {
+              "latitude": "33.6511381",
+              "longitude": "-117.8465635"
+            },
+            {
+              "latitude": "33.6511921",
+              "longitude": "-117.8465581"
+            },
+            {
+              "latitude": "33.6511893",
+              "longitude": "-117.8464929"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "365183897",
+    "name": "Newkirk Alumni Center",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6524897",
+              "longitude": "-117.8463319"
+            },
+            {
+              "latitude": "33.6525076",
+              "longitude": "-117.8462320"
+            },
+            {
+              "latitude": "33.6525377",
+              "longitude": "-117.8462434"
+            },
+            {
+              "latitude": "33.6525444",
+              "longitude": "-117.8462004"
+            },
+            {
+              "latitude": "33.6525159",
+              "longitude": "-117.8461951"
+            },
+            {
+              "latitude": "33.6525176",
+              "longitude": "-117.8461823"
+            },
+            {
+              "latitude": "33.6524953",
+              "longitude": "-117.8461776"
+            },
+            {
+              "latitude": "33.6525171",
+              "longitude": "-117.8460622"
+            },
+            {
+              "latitude": "33.6524182",
+              "longitude": "-117.8460347"
+            },
+            {
+              "latitude": "33.6524110",
+              "longitude": "-117.8460757"
+            },
+            {
+              "latitude": "33.6521865",
+              "longitude": "-117.8460119"
+            },
+            {
+              "latitude": "33.6521496",
+              "longitude": "-117.8461709"
+            },
+            {
+              "latitude": "33.6523406",
+              "longitude": "-117.8462145"
+            },
+            {
+              "latitude": "33.6523294",
+              "longitude": "-117.8462876"
+            },
+            {
+              "latitude": "33.6524897",
+              "longitude": "-117.8463319"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171557398",
+    "name": "Sprague Hall",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6438124",
+              "longitude": "-117.8522208"
+            },
+            {
+              "latitude": "33.6441864",
+              "longitude": "-117.8522250"
+            },
+            {
+              "latitude": "33.6441712",
+              "longitude": "-117.8523261"
+            },
+            {
+              "latitude": "33.6442238",
+              "longitude": "-117.8523345"
+            },
+            {
+              "latitude": "33.6442927",
+              "longitude": "-117.8517856"
+            },
+            {
+              "latitude": "33.6442448",
+              "longitude": "-117.8517800"
+            },
+            {
+              "latitude": "33.6442355",
+              "longitude": "-117.8518446"
+            },
+            {
+              "latitude": "33.6438124",
+              "longitude": "-117.8518417"
+            },
+            {
+              "latitude": "33.6438124",
+              "longitude": "-117.8522208"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "157979894",
+    "name": "Student Center",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6485213",
+              "longitude": "-117.8422992"
+            },
+            {
+              "latitude": "33.6483910",
+              "longitude": "-117.8422799"
+            },
+            {
+              "latitude": "33.6483813",
+              "longitude": "-117.8422296"
+            },
+            {
+              "latitude": "33.6483572",
+              "longitude": "-117.8421890"
+            },
+            {
+              "latitude": "33.6484022",
+              "longitude": "-117.8421465"
+            },
+            {
+              "latitude": "33.6483250",
+              "longitude": "-117.8420402"
+            },
+            {
+              "latitude": "33.6483443",
+              "longitude": "-117.8420170"
+            },
+            {
+              "latitude": "33.6482831",
+              "longitude": "-117.8419203"
+            },
+            {
+              "latitude": "33.6483813",
+              "longitude": "-117.8418352"
+            },
+            {
+              "latitude": "33.6483668",
+              "longitude": "-117.8418139"
+            },
+            {
+              "latitude": "33.6488738",
+              "longitude": "-117.8413770"
+            },
+            {
+              "latitude": "33.6488947",
+              "longitude": "-117.8413731"
+            },
+            {
+              "latitude": "33.6489157",
+              "longitude": "-117.8413770"
+            },
+            {
+              "latitude": "33.6489334",
+              "longitude": "-117.8413963"
+            },
+            {
+              "latitude": "33.6490798",
+              "longitude": "-117.8416593"
+            },
+            {
+              "latitude": "33.6488819",
+              "longitude": "-117.8418468"
+            },
+            {
+              "latitude": "33.6490991",
+              "longitude": "-117.8421910"
+            },
+            {
+              "latitude": "33.6493663",
+              "longitude": "-117.8419706"
+            },
+            {
+              "latitude": "33.6495144",
+              "longitude": "-117.8422316"
+            },
+            {
+              "latitude": "33.6494957",
+              "longitude": "-117.8422489"
+            },
+            {
+              "latitude": "33.6495140",
+              "longitude": "-117.8422769"
+            },
+            {
+              "latitude": "33.6495279",
+              "longitude": "-117.8422982"
+            },
+            {
+              "latitude": "33.6495058",
+              "longitude": "-117.8423200"
+            },
+            {
+              "latitude": "33.6495962",
+              "longitude": "-117.8424570"
+            },
+            {
+              "latitude": "33.6495881",
+              "longitude": "-117.8424650"
+            },
+            {
+              "latitude": "33.6496689",
+              "longitude": "-117.8425874"
+            },
+            {
+              "latitude": "33.6496619",
+              "longitude": "-117.8427176"
+            },
+            {
+              "latitude": "33.6493819",
+              "longitude": "-117.8429728"
+            },
+            {
+              "latitude": "33.6493545",
+              "longitude": "-117.8429709"
+            },
+            {
+              "latitude": "33.6493658",
+              "longitude": "-117.8428549"
+            },
+            {
+              "latitude": "33.6493529",
+              "longitude": "-117.8428375"
+            },
+            {
+              "latitude": "33.6492451",
+              "longitude": "-117.8428298"
+            },
+            {
+              "latitude": "33.6491066",
+              "longitude": "-117.8426190"
+            },
+            {
+              "latitude": "33.6491678",
+              "longitude": "-117.8425649"
+            },
+            {
+              "latitude": "33.6491581",
+              "longitude": "-117.8425475"
+            },
+            {
+              "latitude": "33.6492241",
+              "longitude": "-117.8424856"
+            },
+            {
+              "latitude": "33.6491742",
+              "longitude": "-117.8424005"
+            },
+            {
+              "latitude": "33.6488861",
+              "longitude": "-117.8423638"
+            },
+            {
+              "latitude": "33.6488942",
+              "longitude": "-117.8422420"
+            },
+            {
+              "latitude": "33.6487960",
+              "longitude": "-117.8422323"
+            },
+            {
+              "latitude": "33.6488008",
+              "longitude": "-117.8421685"
+            },
+            {
+              "latitude": "33.6486479",
+              "longitude": "-117.8421550"
+            },
+            {
+              "latitude": "33.6486431",
+              "longitude": "-117.8422130"
+            },
+            {
+              "latitude": "33.6485272",
+              "longitude": "-117.8422052"
+            },
+            {
+              "latitude": "33.6485213",
+              "longitude": "-117.8422992"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171169300",
+    "name": "Student Center Parking Structure",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6502608",
+              "longitude": "-117.8424721"
+            },
+            {
+              "latitude": "33.6502899",
+              "longitude": "-117.8424343"
+            },
+            {
+              "latitude": "33.6503217",
+              "longitude": "-117.8424696"
+            },
+            {
+              "latitude": "33.6506159",
+              "longitude": "-117.8420878"
+            },
+            {
+              "latitude": "33.6505839",
+              "longitude": "-117.8420523"
+            },
+            {
+              "latitude": "33.6506125",
+              "longitude": "-117.8420151"
+            },
+            {
+              "latitude": "33.6505004",
+              "longitude": "-117.8418905"
+            },
+            {
+              "latitude": "33.6499449",
+              "longitude": "-117.8412815"
+            },
+            {
+              "latitude": "33.6499143",
+              "longitude": "-117.8413218"
+            },
+            {
+              "latitude": "33.6498835",
+              "longitude": "-117.8412880"
+            },
+            {
+              "latitude": "33.6498467",
+              "longitude": "-117.8413364"
+            },
+            {
+              "latitude": "33.6495666",
+              "longitude": "-117.8417010"
+            },
+            {
+              "latitude": "33.6498072",
+              "longitude": "-117.8419676"
+            },
+            {
+              "latitude": "33.6501617",
+              "longitude": "-117.8423618"
+            },
+            {
+              "latitude": "33.6502608",
+              "longitude": "-117.8424721"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171550874",
+    "name": "Student Health Center",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6457729",
+              "longitude": "-117.8357285"
+            },
+            {
+              "latitude": "33.6453005",
+              "longitude": "-117.8357177"
+            },
+            {
+              "latitude": "33.6452969",
+              "longitude": "-117.8359447"
+            },
+            {
+              "latitude": "33.6454972",
+              "longitude": "-117.8359493"
+            },
+            {
+              "latitude": "33.6454956",
+              "longitude": "-117.8360483"
+            },
+            {
+              "latitude": "33.6454712",
+              "longitude": "-117.8360477"
+            },
+            {
+              "latitude": "33.6454710",
+              "longitude": "-117.8360640"
+            },
+            {
+              "latitude": "33.6454314",
+              "longitude": "-117.8360631"
+            },
+            {
+              "latitude": "33.6454304",
+              "longitude": "-117.8361257"
+            },
+            {
+              "latitude": "33.6454692",
+              "longitude": "-117.8361265"
+            },
+            {
+              "latitude": "33.6454684",
+              "longitude": "-117.8361745"
+            },
+            {
+              "latitude": "33.6456308",
+              "longitude": "-117.8361782"
+            },
+            {
+              "latitude": "33.6456318",
+              "longitude": "-117.8361152"
+            },
+            {
+              "latitude": "33.6457667",
+              "longitude": "-117.8361182"
+            },
+            {
+              "latitude": "33.6457729",
+              "longitude": "-117.8357285"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "171557395",
+    "name": "Sue & Bill Gross Hall: A CIRM Institute",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6462478",
+              "longitude": "-117.8495991"
+            },
+            {
+              "latitude": "33.6463649",
+              "longitude": "-117.8495990"
+            },
+            {
+              "latitude": "33.6463647",
+              "longitude": "-117.8492998"
+            },
+            {
+              "latitude": "33.6460494",
+              "longitude": "-117.8493000"
+            },
+            {
+              "latitude": "33.6460496",
+              "longitude": "-117.8497423"
+            },
+            {
+              "latitude": "33.6462478",
+              "longitude": "-117.8497422"
+            },
+            {
+              "latitude": "33.6462478",
+              "longitude": "-117.8495991"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "184993893",
+    "name": "Tamkin Student Lecture Building",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "33.6456662",
+              "longitude": "-117.8521122"
+            },
+            {
+              "latitude": "33.6456697",
+              "longitude": "-117.8518385"
+            },
+            {
+              "latitude": "33.6455640",
+              "longitude": "-117.8518372"
+            },
+            {
+              "latitude": "33.6454419",
+              "longitude": "-117.8519670"
+            },
+            {
+              "latitude": "33.6453354",
+              "longitude": "-117.8519659"
+            },
+            {
+              "latitude": "33.6453338",
+              "longitude": "-117.8521066"
+            },
+            {
+              "latitude": "33.6456662",
+              "longitude": "-117.8521122"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  },
+  {
+    "id": "10840807",
+    "name": "University Research Center",
+    "entityClassId": 2,
+    "entityClassName": "space",
+    "entityTypeId": 5,
+    "entityTypeName": "building",
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": "30.1665232",
+              "longitude": "-81.6974498"
+            },
+            {
+              "latitude": "30.1665330",
+              "longitude": "-81.6972296"
+            },
+            {
+              "latitude": "30.1665399",
+              "longitude": "-81.6971761"
+            },
+            {
+              "latitude": "30.1665528",
+              "longitude": "-81.6971270"
+            },
+            {
+              "latitude": "30.1665763",
+              "longitude": "-81.6970726"
+            },
+            {
+              "latitude": "30.1666036",
+              "longitude": "-81.6970314"
+            },
+            {
+              "latitude": "30.1666460",
+              "longitude": "-81.6969928"
+            },
+            {
+              "latitude": "30.1667022",
+              "longitude": "-81.6969612"
+            },
+            {
+              "latitude": "30.1667393",
+              "longitude": "-81.6969612"
+            },
+            {
+              "latitude": "30.1670738",
+              "longitude": "-81.6969936"
+            },
+            {
+              "latitude": "30.1671307",
+              "longitude": "-81.6970077"
+            },
+            {
+              "latitude": "30.1671580",
+              "longitude": "-81.6970235"
+            },
+            {
+              "latitude": "30.1671830",
+              "longitude": "-81.6970384"
+            },
+            {
+              "latitude": "30.1672148",
+              "longitude": "-81.6970726"
+            },
+            {
+              "latitude": "30.1672414",
+              "longitude": "-81.6971261"
+            },
+            {
+              "latitude": "30.1672550",
+              "longitude": "-81.6971700"
+            },
+            {
+              "latitude": "30.1672664",
+              "longitude": "-81.6972419"
+            },
+            {
+              "latitude": "30.1672429",
+              "longitude": "-81.6975761"
+            },
+            {
+              "latitude": "30.1672232",
+              "longitude": "-81.6976524"
+            },
+            {
+              "latitude": "30.1672073",
+              "longitude": "-81.6976779"
+            },
+            {
+              "latitude": "30.1671557",
+              "longitude": "-81.6977129"
+            },
+            {
+              "latitude": "30.1671079",
+              "longitude": "-81.6977129"
+            },
+            {
+              "latitude": "30.1670518",
+              "longitude": "-81.6977033"
+            },
+            {
+              "latitude": "30.1669904",
+              "longitude": "-81.6976963"
+            },
+            {
+              "latitude": "30.1669320",
+              "longitude": "-81.6976822"
+            },
+            {
+              "latitude": "30.1668751",
+              "longitude": "-81.6976498"
+            },
+            {
+              "latitude": "30.1667317",
+              "longitude": "-81.6975156"
+            },
+            {
+              "latitude": "30.1666855",
+              "longitude": "-81.6974761"
+            },
+            {
+              "latitude": "30.1666195",
+              "longitude": "-81.6974542"
+            },
+            {
+              "latitude": "30.1665232",
+              "longitude": "-81.6974498"
+            },
+            {
+              "latitude": "30.1662092",
+              "longitude": "-81.6974352"
+            },
+            {
+              "latitude": "30.1661504",
+              "longitude": "-81.6974325"
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 1,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "gps"
+        }
+      }
+    }
+  }
+]
