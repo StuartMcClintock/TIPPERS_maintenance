@@ -3,16 +3,17 @@ import requests
 
 CORRECT_DATA_FILE = "campus.json"
 
-WRONG_DATA_FILE = "response_1587582776888.json"
+#WRONG_DATA_FILE = "response_1587582776888.json"
 
-DEST_URL = 'https://uci-tippers.ics.uci.edu/api/entity/'
+SOURCE_URL = 'https://dev-tippers.ics.uci.edu/api/entity/'
+
+DEST_URL = 'https://dev-tippers.ics.uci.edu/api/entity/'
 
 def main():
     with open(CORRECT_DATA_FILE) as inF:
         correctData = json.load(inF)
     
-    with open(WRONG_DATA_FILE) as outF:
-        wrongData = json.load(outF)
+    wrongData = requests.get(SOURCE_URL).json()
         
     correctVertecies = {}
     for datum in correctData:
@@ -37,7 +38,7 @@ def main():
             fixedData.append(building)
     
     for datum in fixedData:
-        if datum["entityTypeId"] != 5:
+        if datum["entityTypeId"] != 5 or datum["payload"]["geo"]["coordinateSystem"] == None:
             continue
         newElement = datum
         id = datum["id"]
