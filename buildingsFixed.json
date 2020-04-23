@@ -1,0 +1,5351 @@
+[
+  {
+    "name": "University Tower",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6509232,
+              "longitude": -117.8385653
+            },
+            {
+              "latitude": 33.6509513,
+              "longitude": -117.838501
+            },
+            {
+              "latitude": 33.6510164,
+              "longitude": -117.8384785
+            },
+            {
+              "latitude": 33.650997,
+              "longitude": -117.8383976
+            },
+            {
+              "latitude": 33.6510527,
+              "longitude": -117.8382716
+            },
+            {
+              "latitude": 33.6509957,
+              "longitude": -117.8382352
+            },
+            {
+              "latitude": 33.650975,
+              "longitude": -117.838155
+            },
+            {
+              "latitude": 33.6509086,
+              "longitude": -117.8381798
+            },
+            {
+              "latitude": 33.6507767,
+              "longitude": -117.8380958
+            },
+            {
+              "latitude": 33.6507568,
+              "longitude": -117.8380169
+            },
+            {
+              "latitude": 33.6506906,
+              "longitude": -117.838041
+            },
+            {
+              "latitude": 33.6506352,
+              "longitude": -117.838006
+            },
+            {
+              "latitude": 33.6506065,
+              "longitude": -117.8380717
+            },
+            {
+              "latitude": 33.6505344,
+              "longitude": -117.8380988
+            },
+            {
+              "latitude": 33.650557,
+              "longitude": -117.8381854
+            },
+            {
+              "latitude": 33.6505051,
+              "longitude": -117.8383051
+            },
+            {
+              "latitude": 33.6505548,
+              "longitude": -117.8383362
+            },
+            {
+              "latitude": 33.6505748,
+              "longitude": -117.8384239
+            },
+            {
+              "latitude": 33.6506157,
+              "longitude": -117.8384104
+            },
+            {
+              "latitude": 33.6507467,
+              "longitude": -117.8384934
+            },
+            {
+              "latitude": 33.6507661,
+              "longitude": -117.8385706
+            },
+            {
+              "latitude": 33.650871,
+              "longitude": -117.8385324
+            },
+            {
+              "latitude": 33.6509232,
+              "longitude": -117.8385653
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Intercollegiate Athletics Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6482386,
+              "longitude": -117.8457985
+            },
+            {
+              "latitude": 33.6483304,
+              "longitude": -117.8457449
+            },
+            {
+              "latitude": 33.648205,
+              "longitude": -117.8454352
+            },
+            {
+              "latitude": 33.6482965,
+              "longitude": -117.8453818
+            },
+            {
+              "latitude": 33.6482423,
+              "longitude": -117.845248
+            },
+            {
+              "latitude": 33.6481336,
+              "longitude": -117.8453115
+            },
+            {
+              "latitude": 33.6481721,
+              "longitude": -117.8454066
+            },
+            {
+              "latitude": 33.6481073,
+              "longitude": -117.8454444
+            },
+            {
+              "latitude": 33.6480375,
+              "longitude": -117.8452717
+            },
+            {
+              "latitude": 33.647996,
+              "longitude": -117.8452959
+            },
+            {
+              "latitude": 33.6481064,
+              "longitude": -117.8455688
+            },
+            {
+              "latitude": 33.6481381,
+              "longitude": -117.8455503
+            },
+            {
+              "latitude": 33.6482386,
+              "longitude": -117.8457985
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Gateway Study Center",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6477181,
+              "longitude": -117.841752
+            },
+            {
+              "latitude": 33.6475477,
+              "longitude": -117.8414821
+            },
+            {
+              "latitude": 33.6474013,
+              "longitude": -117.8416154
+            },
+            {
+              "latitude": 33.6471924,
+              "longitude": -117.8418057
+            },
+            {
+              "latitude": 33.6473628,
+              "longitude": -117.8420757
+            },
+            {
+              "latitude": 33.6477181,
+              "longitude": -117.841752
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Aldrich Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6482007,
+              "longitude": -117.8416086
+            },
+            {
+              "latitude": 33.6481174,
+              "longitude": -117.8414784
+            },
+            {
+              "latitude": 33.647984,
+              "longitude": -117.8412699
+            },
+            {
+              "latitude": 33.6482728,
+              "longitude": -117.8410032
+            },
+            {
+              "latitude": 33.6484626,
+              "longitude": -117.8408279
+            },
+            {
+              "latitude": 33.648516,
+              "longitude": -117.8409114
+            },
+            {
+              "latitude": 33.6485855,
+              "longitude": -117.8408472
+            },
+            {
+              "latitude": 33.6487528,
+              "longitude": -117.8411085
+            },
+            {
+              "latitude": 33.648679,
+              "longitude": -117.8411766
+            },
+            {
+              "latitude": 33.6487316,
+              "longitude": -117.8412588
+            },
+            {
+              "latitude": 33.6483577,
+              "longitude": -117.841604
+            },
+            {
+              "latitude": 33.6483013,
+              "longitude": -117.8415158
+            },
+            {
+              "latitude": 33.6482007,
+              "longitude": -117.8416086
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Public Services Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6465929,
+              "longitude": -117.8349825
+            },
+            {
+              "latitude": 33.6463383,
+              "longitude": -117.8349851
+            },
+            {
+              "latitude": 33.6463403,
+              "longitude": -117.8349041
+            },
+            {
+              "latitude": 33.6463939,
+              "longitude": -117.834829
+            },
+            {
+              "latitude": 33.6464408,
+              "longitude": -117.8348317
+            },
+            {
+              "latitude": 33.646443,
+              "longitude": -117.8347646
+            },
+            {
+              "latitude": 33.6465569,
+              "longitude": -117.8346546
+            },
+            {
+              "latitude": 33.6465971,
+              "longitude": -117.8346548
+            },
+            {
+              "latitude": 33.6465929,
+              "longitude": -117.8349825
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Cross-Cultural Center",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6476269,
+              "longitude": -117.8420581
+            },
+            {
+              "latitude": 33.6477186,
+              "longitude": -117.8419982
+            },
+            {
+              "latitude": 33.6477524,
+              "longitude": -117.8419634
+            },
+            {
+              "latitude": 33.6477653,
+              "longitude": -117.8419827
+            },
+            {
+              "latitude": 33.6478844,
+              "longitude": -117.8419073
+            },
+            {
+              "latitude": 33.6478989,
+              "longitude": -117.8419324
+            },
+            {
+              "latitude": 33.6480035,
+              "longitude": -117.8418996
+            },
+            {
+              "latitude": 33.6479375,
+              "longitude": -117.8416772
+            },
+            {
+              "latitude": 33.6478538,
+              "longitude": -117.8417062
+            },
+            {
+              "latitude": 33.6478619,
+              "longitude": -117.8417352
+            },
+            {
+              "latitude": 33.6478297,
+              "longitude": -117.8417584
+            },
+            {
+              "latitude": 33.6478087,
+              "longitude": -117.8417217
+            },
+            {
+              "latitude": 33.6476414,
+              "longitude": -117.8418628
+            },
+            {
+              "latitude": 33.6476285,
+              "longitude": -117.8418454
+            },
+            {
+              "latitude": 33.6475432,
+              "longitude": -117.8419266
+            },
+            {
+              "latitude": 33.6476269,
+              "longitude": -117.8420581
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Engineering Lecture Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6443741,
+              "longitude": -117.8409597
+            },
+            {
+              "latitude": 33.6444658,
+              "longitude": -117.8408175
+            },
+            {
+              "latitude": 33.6445109,
+              "longitude": -117.8408594
+            },
+            {
+              "latitude": 33.6445867,
+              "longitude": -117.8407417
+            },
+            {
+              "latitude": 33.6445902,
+              "longitude": -117.8407449
+            },
+            {
+              "latitude": 33.6446487,
+              "longitude": -117.8406541
+            },
+            {
+              "latitude": 33.6445735,
+              "longitude": -117.8405842
+            },
+            {
+              "latitude": 33.6445701,
+              "longitude": -117.8405896
+            },
+            {
+              "latitude": 33.6444731,
+              "longitude": -117.8404993
+            },
+            {
+              "latitude": 33.6443811,
+              "longitude": -117.840642
+            },
+            {
+              "latitude": 33.6443549,
+              "longitude": -117.8406176
+            },
+            {
+              "latitude": 33.6442947,
+              "longitude": -117.8407111
+            },
+            {
+              "latitude": 33.6443388,
+              "longitude": -117.8407521
+            },
+            {
+              "latitude": 33.6442684,
+              "longitude": -117.8408613
+            },
+            {
+              "latitude": 33.6443741,
+              "longitude": -117.8409597
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Engineering Tower",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6447263,
+              "longitude": -117.8412947
+            },
+            {
+              "latitude": 33.6447877,
+              "longitude": -117.8413523
+            },
+            {
+              "latitude": 33.6449124,
+              "longitude": -117.8411606
+            },
+            {
+              "latitude": 33.6448468,
+              "longitude": -117.841099
+            },
+            {
+              "latitude": 33.6449143,
+              "longitude": -117.8409954
+            },
+            {
+              "latitude": 33.6447671,
+              "longitude": -117.8408572
+            },
+            {
+              "latitude": 33.6446989,
+              "longitude": -117.840962
+            },
+            {
+              "latitude": 33.6446303,
+              "longitude": -117.8408975
+            },
+            {
+              "latitude": 33.6445073,
+              "longitude": -117.8410865
+            },
+            {
+              "latitude": 33.6445655,
+              "longitude": -117.8411412
+            },
+            {
+              "latitude": 33.6444965,
+              "longitude": -117.8412472
+            },
+            {
+              "latitude": 33.6446583,
+              "longitude": -117.8413992
+            },
+            {
+              "latitude": 33.6447263,
+              "longitude": -117.8412947
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Humanities Gateway",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6485093,
+              "longitude": -117.8448895
+            },
+            {
+              "latitude": 33.6485697,
+              "longitude": -117.8447411
+            },
+            {
+              "latitude": 33.6485845,
+              "longitude": -117.844748
+            },
+            {
+              "latitude": 33.6486069,
+              "longitude": -117.8446885
+            },
+            {
+              "latitude": 33.6485455,
+              "longitude": -117.8446468
+            },
+            {
+              "latitude": 33.6485366,
+              "longitude": -117.8446755
+            },
+            {
+              "latitude": 33.6483916,
+              "longitude": -117.8445988
+            },
+            {
+              "latitude": 33.6483981,
+              "longitude": -117.8445816
+            },
+            {
+              "latitude": 33.6483738,
+              "longitude": -117.8445661
+            },
+            {
+              "latitude": 33.6484494,
+              "longitude": -117.8443921
+            },
+            {
+              "latitude": 33.6481967,
+              "longitude": -117.8442335
+            },
+            {
+              "latitude": 33.6481822,
+              "longitude": -117.8442672
+            },
+            {
+              "latitude": 33.6481597,
+              "longitude": -117.8442981
+            },
+            {
+              "latitude": 33.6481114,
+              "longitude": -117.8443291
+            },
+            {
+              "latitude": 33.6480567,
+              "longitude": -117.8443523
+            },
+            {
+              "latitude": 33.6479987,
+              "longitude": -117.8443619
+            },
+            {
+              "latitude": 33.6479134,
+              "longitude": -117.8443484
+            },
+            {
+              "latitude": 33.6477283,
+              "longitude": -117.8446732
+            },
+            {
+              "latitude": 33.6478619,
+              "longitude": -117.8447776
+            },
+            {
+              "latitude": 33.6478619,
+              "longitude": -117.8448086
+            },
+            {
+              "latitude": 33.647899,
+              "longitude": -117.8448008
+            },
+            {
+              "latitude": 33.6479328,
+              "longitude": -117.8447815
+            },
+            {
+              "latitude": 33.6479714,
+              "longitude": -117.8447332
+            },
+            {
+              "latitude": 33.6479802,
+              "longitude": -117.8447065
+            },
+            {
+              "latitude": 33.6479867,
+              "longitude": -117.8446833
+            },
+            {
+              "latitude": 33.6479915,
+              "longitude": -117.8446581
+            },
+            {
+              "latitude": 33.6479955,
+              "longitude": -117.8446349
+            },
+            {
+              "latitude": 33.6479968,
+              "longitude": -117.8446202
+            },
+            {
+              "latitude": 33.6480061,
+              "longitude": -117.8446161
+            },
+            {
+              "latitude": 33.6480406,
+              "longitude": -117.8446073
+            },
+            {
+              "latitude": 33.6480627,
+              "longitude": -117.8445929
+            },
+            {
+              "latitude": 33.648103,
+              "longitude": -117.8445489
+            },
+            {
+              "latitude": 33.648131,
+              "longitude": -117.8445345
+            },
+            {
+              "latitude": 33.6481503,
+              "longitude": -117.8445304
+            },
+            {
+              "latitude": 33.6481685,
+              "longitude": -117.8445304
+            },
+            {
+              "latitude": 33.6482038,
+              "longitude": -117.8445386
+            },
+            {
+              "latitude": 33.6482243,
+              "longitude": -117.8445495
+            },
+            {
+              "latitude": 33.6482436,
+              "longitude": -117.8445728
+            },
+            {
+              "latitude": 33.648255,
+              "longitude": -117.844607
+            },
+            {
+              "latitude": 33.648271,
+              "longitude": -117.8446384
+            },
+            {
+              "latitude": 33.6482892,
+              "longitude": -117.8446603
+            },
+            {
+              "latitude": 33.6483191,
+              "longitude": -117.8446877
+            },
+            {
+              "latitude": 33.6482664,
+              "longitude": -117.8448097
+            },
+            {
+              "latitude": 33.6483558,
+              "longitude": -117.8448663
+            },
+            {
+              "latitude": 33.6483758,
+              "longitude": -117.8448704
+            },
+            {
+              "latitude": 33.6484079,
+              "longitude": -117.844882
+            },
+            {
+              "latitude": 33.6484482,
+              "longitude": -117.8448878
+            },
+            {
+              "latitude": 33.6484482,
+              "longitude": -117.8448511
+            },
+            {
+              "latitude": 33.6485093,
+              "longitude": -117.8448895
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Humanities Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6470536,
+              "longitude": -117.8440586
+            },
+            {
+              "latitude": 33.647213,
+              "longitude": -117.843677
+            },
+            {
+              "latitude": 33.6475803,
+              "longitude": -117.8438983
+            },
+            {
+              "latitude": 33.6474284,
+              "longitude": -117.84426
+            },
+            {
+              "latitude": 33.6474209,
+              "longitude": -117.8442799
+            },
+            {
+              "latitude": 33.6470536,
+              "longitude": -117.8440586
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Humanities Instructional Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6486054,
+              "longitude": -117.8436215
+            },
+            {
+              "latitude": 33.6485712,
+              "longitude": -117.8435472
+            },
+            {
+              "latitude": 33.6485579,
+              "longitude": -117.843522
+            },
+            {
+              "latitude": 33.6485061,
+              "longitude": -117.8434475
+            },
+            {
+              "latitude": 33.6484635,
+              "longitude": -117.8433954
+            },
+            {
+              "latitude": 33.648416,
+              "longitude": -117.8433445
+            },
+            {
+              "latitude": 33.648342,
+              "longitude": -117.8432854
+            },
+            {
+              "latitude": 33.6482223,
+              "longitude": -117.843746
+            },
+            {
+              "latitude": 33.6482478,
+              "longitude": -117.8437874
+            },
+            {
+              "latitude": 33.6482727,
+              "longitude": -117.8438394
+            },
+            {
+              "latitude": 33.6482969,
+              "longitude": -117.8439366
+            },
+            {
+              "latitude": 33.6482993,
+              "longitude": -117.8440013
+            },
+            {
+              "latitude": 33.6482907,
+              "longitude": -117.8440818
+            },
+            {
+              "latitude": 33.6485673,
+              "longitude": -117.8442401
+            },
+            {
+              "latitude": 33.6485821,
+              "longitude": -117.8442087
+            },
+            {
+              "latitude": 33.6486211,
+              "longitude": -117.8442303
+            },
+            {
+              "latitude": 33.6486385,
+              "longitude": -117.8441493
+            },
+            {
+              "latitude": 33.6484608,
+              "longitude": -117.844043
+            },
+            {
+              "latitude": 33.6484621,
+              "longitude": -117.8439965
+            },
+            {
+              "latitude": 33.6484604,
+              "longitude": -117.8439378
+            },
+            {
+              "latitude": 33.6484506,
+              "longitude": -117.8438626
+            },
+            {
+              "latitude": 33.648442,
+              "longitude": -117.8438287
+            },
+            {
+              "latitude": 33.648424,
+              "longitude": -117.8437717
+            },
+            {
+              "latitude": 33.6484041,
+              "longitude": -117.8437223
+            },
+            {
+              "latitude": 33.6484608,
+              "longitude": -117.8436818
+            },
+            {
+              "latitude": 33.6484754,
+              "longitude": -117.8436956
+            },
+            {
+              "latitude": 33.6486054,
+              "longitude": -117.8436215
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Information & Computer Science 2",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6442293,
+              "longitude": -117.8413504
+            },
+            {
+              "latitude": 33.6441549,
+              "longitude": -117.8412807
+            },
+            {
+              "latitude": 33.6439027,
+              "longitude": -117.841669
+            },
+            {
+              "latitude": 33.6438926,
+              "longitude": -117.8416595
+            },
+            {
+              "latitude": 33.6438616,
+              "longitude": -117.8417073
+            },
+            {
+              "latitude": 33.6438848,
+              "longitude": -117.8417291
+            },
+            {
+              "latitude": 33.6438642,
+              "longitude": -117.8417609
+            },
+            {
+              "latitude": 33.6438412,
+              "longitude": -117.8417607
+            },
+            {
+              "latitude": 33.6438142,
+              "longitude": -117.8417841
+            },
+            {
+              "latitude": 33.6438057,
+              "longitude": -117.8418234
+            },
+            {
+              "latitude": 33.6438218,
+              "longitude": -117.8418583
+            },
+            {
+              "latitude": 33.6438429,
+              "longitude": -117.841868
+            },
+            {
+              "latitude": 33.6438505,
+              "longitude": -117.8419099
+            },
+            {
+              "latitude": 33.6438223,
+              "longitude": -117.8419174
+            },
+            {
+              "latitude": 33.6438326,
+              "longitude": -117.8419736
+            },
+            {
+              "latitude": 33.6438445,
+              "longitude": -117.8419704
+            },
+            {
+              "latitude": 33.6438843,
+              "longitude": -117.8421874
+            },
+            {
+              "latitude": 33.643894,
+              "longitude": -117.8421848
+            },
+            {
+              "latitude": 33.6439777,
+              "longitude": -117.8421626
+            },
+            {
+              "latitude": 33.6439283,
+              "longitude": -117.8418938
+            },
+            {
+              "latitude": 33.6438765,
+              "longitude": -117.8419075
+            },
+            {
+              "latitude": 33.6438687,
+              "longitude": -117.8418647
+            },
+            {
+              "latitude": 33.6438926,
+              "longitude": -117.8418471
+            },
+            {
+              "latitude": 33.6439014,
+              "longitude": -117.8418055
+            },
+            {
+              "latitude": 33.6438874,
+              "longitude": -117.8417722
+            },
+            {
+              "latitude": 33.6439052,
+              "longitude": -117.8417446
+            },
+            {
+              "latitude": 33.6439476,
+              "longitude": -117.8417843
+            },
+            {
+              "latitude": 33.6442293,
+              "longitude": -117.8413504
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Krieger Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6473632,
+              "longitude": -117.8434183
+            },
+            {
+              "latitude": 33.6474083,
+              "longitude": -117.8433107
+            },
+            {
+              "latitude": 33.6478875,
+              "longitude": -117.8436004
+            },
+            {
+              "latitude": 33.6478424,
+              "longitude": -117.843708
+            },
+            {
+              "latitude": 33.6473632,
+              "longitude": -117.8434183
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "McGaugh Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6455679,
+              "longitude": -117.8452938
+            },
+            {
+              "latitude": 33.6455724,
+              "longitude": -117.8448506
+            },
+            {
+              "latitude": 33.6452881,
+              "longitude": -117.8448463
+            },
+            {
+              "latitude": 33.6452945,
+              "longitude": -117.8442219
+            },
+            {
+              "latitude": 33.6449779,
+              "longitude": -117.8442172
+            },
+            {
+              "latitude": 33.6449696,
+              "longitude": -117.8450186
+            },
+            {
+              "latitude": 33.6451536,
+              "longitude": -117.8450214
+            },
+            {
+              "latitude": 33.6452494,
+              "longitude": -117.8450228
+            },
+            {
+              "latitude": 33.6452466,
+              "longitude": -117.8452891
+            },
+            {
+              "latitude": 33.6455679,
+              "longitude": -117.8452938
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Music & Media Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6494607,
+              "longitude": -117.8447555
+            },
+            {
+              "latitude": 33.6495171,
+              "longitude": -117.844624
+            },
+            {
+              "latitude": 33.6495396,
+              "longitude": -117.8446356
+            },
+            {
+              "latitude": 33.6496973,
+              "longitude": -117.8442392
+            },
+            {
+              "latitude": 33.649641,
+              "longitude": -117.8442025
+            },
+            {
+              "latitude": 33.6497343,
+              "longitude": -117.8439647
+            },
+            {
+              "latitude": 33.6498711,
+              "longitude": -117.8440536
+            },
+            {
+              "latitude": 33.6499259,
+              "longitude": -117.843926
+            },
+            {
+              "latitude": 33.6495573,
+              "longitude": -117.8436901
+            },
+            {
+              "latitude": 33.6494543,
+              "longitude": -117.8439183
+            },
+            {
+              "latitude": 33.6495251,
+              "longitude": -117.8439705
+            },
+            {
+              "latitude": 33.6494945,
+              "longitude": -117.8440536
+            },
+            {
+              "latitude": 33.6495541,
+              "longitude": -117.8440884
+            },
+            {
+              "latitude": 33.6494865,
+              "longitude": -117.8442566
+            },
+            {
+              "latitude": 33.6493304,
+              "longitude": -117.8441503
+            },
+            {
+              "latitude": 33.6493159,
+              "longitude": -117.8441716
+            },
+            {
+              "latitude": 33.6493094,
+              "longitude": -117.8442218
+            },
+            {
+              "latitude": 33.6492885,
+              "longitude": -117.8442876
+            },
+            {
+              "latitude": 33.6492756,
+              "longitude": -117.8443262
+            },
+            {
+              "latitude": 33.6492515,
+              "longitude": -117.8443707
+            },
+            {
+              "latitude": 33.6492274,
+              "longitude": -117.8444036
+            },
+            {
+              "latitude": 33.6492177,
+              "longitude": -117.8444345
+            },
+            {
+              "latitude": 33.6492113,
+              "longitude": -117.8444713
+            },
+            {
+              "latitude": 33.6492129,
+              "longitude": -117.8445293
+            },
+            {
+              "latitude": 33.6491678,
+              "longitude": -117.8446511
+            },
+            {
+              "latitude": 33.6491968,
+              "longitude": -117.8446685
+            },
+            {
+              "latitude": 33.6492338,
+              "longitude": -117.8445795
+            },
+            {
+              "latitude": 33.6492933,
+              "longitude": -117.8446182
+            },
+            {
+              "latitude": 33.6492692,
+              "longitude": -117.8446762
+            },
+            {
+              "latitude": 33.6493062,
+              "longitude": -117.8446955
+            },
+            {
+              "latitude": 33.6493159,
+              "longitude": -117.8446607
+            },
+            {
+              "latitude": 33.6494607,
+              "longitude": -117.8447555
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Parkview Classroom Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6443592,
+              "longitude": -117.8427062
+            },
+            {
+              "latitude": 33.6445283,
+              "longitude": -117.8430629
+            },
+            {
+              "latitude": 33.6446108,
+              "longitude": -117.8430064
+            },
+            {
+              "latitude": 33.6445636,
+              "longitude": -117.8429068
+            },
+            {
+              "latitude": 33.6445936,
+              "longitude": -117.8428862
+            },
+            {
+              "latitude": 33.6445447,
+              "longitude": -117.842783
+            },
+            {
+              "latitude": 33.6446025,
+              "longitude": -117.8427434
+            },
+            {
+              "latitude": 33.6445296,
+              "longitude": -117.8425897
+            },
+            {
+              "latitude": 33.6443592,
+              "longitude": -117.8427062
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Phoenix Food Court",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6457228,
+              "longitude": -117.8407144
+            },
+            {
+              "latitude": 33.6456448,
+              "longitude": -117.8405704
+            },
+            {
+              "latitude": 33.6456613,
+              "longitude": -117.8405575
+            },
+            {
+              "latitude": 33.6456249,
+              "longitude": -117.8404904
+            },
+            {
+              "latitude": 33.6455777,
+              "longitude": -117.8405273
+            },
+            {
+              "latitude": 33.6455388,
+              "longitude": -117.8404554
+            },
+            {
+              "latitude": 33.645572,
+              "longitude": -117.8404295
+            },
+            {
+              "latitude": 33.6455443,
+              "longitude": -117.8403784
+            },
+            {
+              "latitude": 33.6454478,
+              "longitude": -117.8404538
+            },
+            {
+              "latitude": 33.6454812,
+              "longitude": -117.8406008
+            },
+            {
+              "latitude": 33.6454425,
+              "longitude": -117.8406388
+            },
+            {
+              "latitude": 33.6454761,
+              "longitude": -117.840757
+            },
+            {
+              "latitude": 33.6455707,
+              "longitude": -117.840686
+            },
+            {
+              "latitude": 33.6456003,
+              "longitude": -117.8408102
+            },
+            {
+              "latitude": 33.6457228,
+              "longitude": -117.8407144
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Qureshey Research Laboratory",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6465901,
+              "longitude": -117.8459488
+            },
+            {
+              "latitude": 33.6467386,
+              "longitude": -117.8457653
+            },
+            {
+              "latitude": 33.646558,
+              "longitude": -117.8455544
+            },
+            {
+              "latitude": 33.6464095,
+              "longitude": -117.8457379
+            },
+            {
+              "latitude": 33.6464867,
+              "longitude": -117.845828
+            },
+            {
+              "latitude": 33.6465901,
+              "longitude": -117.8459488
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Frederick Reines Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6444123,
+              "longitude": -117.8429023
+            },
+            {
+              "latitude": 33.6445214,
+              "longitude": -117.8431419
+            },
+            {
+              "latitude": 33.6445286,
+              "longitude": -117.8431372
+            },
+            {
+              "latitude": 33.6445695,
+              "longitude": -117.8432273
+            },
+            {
+              "latitude": 33.6445394,
+              "longitude": -117.8432471
+            },
+            {
+              "latitude": 33.6445493,
+              "longitude": -117.8432688
+            },
+            {
+              "latitude": 33.6445609,
+              "longitude": -117.8432611
+            },
+            {
+              "latitude": 33.6445742,
+              "longitude": -117.843267
+            },
+            {
+              "latitude": 33.6445795,
+              "longitude": -117.8432808
+            },
+            {
+              "latitude": 33.6445744,
+              "longitude": -117.8433005
+            },
+            {
+              "latitude": 33.6445252,
+              "longitude": -117.8433324
+            },
+            {
+              "latitude": 33.644554,
+              "longitude": -117.8433964
+            },
+            {
+              "latitude": 33.6441898,
+              "longitude": -117.8436322
+            },
+            {
+              "latitude": 33.6441146,
+              "longitude": -117.8436451
+            },
+            {
+              "latitude": 33.6440699,
+              "longitude": -117.8436379
+            },
+            {
+              "latitude": 33.6439864,
+              "longitude": -117.8435885
+            },
+            {
+              "latitude": 33.6439551,
+              "longitude": -117.8435453
+            },
+            {
+              "latitude": 33.6439192,
+              "longitude": -117.8434284
+            },
+            {
+              "latitude": 33.6438348,
+              "longitude": -117.8434653
+            },
+            {
+              "latitude": 33.6437336,
+              "longitude": -117.8431313
+            },
+            {
+              "latitude": 33.6438732,
+              "longitude": -117.8430702
+            },
+            {
+              "latitude": 33.643852,
+              "longitude": -117.8430002
+            },
+            {
+              "latitude": 33.6438568,
+              "longitude": -117.842986
+            },
+            {
+              "latitude": 33.6438723,
+              "longitude": -117.8429808
+            },
+            {
+              "latitude": 33.6438831,
+              "longitude": -117.8429873
+            },
+            {
+              "latitude": 33.6438952,
+              "longitude": -117.8430287
+            },
+            {
+              "latitude": 33.6439129,
+              "longitude": -117.8430212
+            },
+            {
+              "latitude": 33.6439016,
+              "longitude": -117.8429825
+            },
+            {
+              "latitude": 33.6439876,
+              "longitude": -117.8429464
+            },
+            {
+              "latitude": 33.6441084,
+              "longitude": -117.8433611
+            },
+            {
+              "latitude": 33.6441541,
+              "longitude": -117.8433791
+            },
+            {
+              "latitude": 33.6443556,
+              "longitude": -117.8432467
+            },
+            {
+              "latitude": 33.6442479,
+              "longitude": -117.8430103
+            },
+            {
+              "latitude": 33.6444123,
+              "longitude": -117.8429023
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Rowland Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.644479,
+              "longitude": -117.8445393
+            },
+            {
+              "latitude": 33.6448027,
+              "longitude": -117.8443227
+            },
+            {
+              "latitude": 33.6447746,
+              "longitude": -117.8442621
+            },
+            {
+              "latitude": 33.6448251,
+              "longitude": -117.8442282
+            },
+            {
+              "latitude": 33.6448074,
+              "longitude": -117.8441899
+            },
+            {
+              "latitude": 33.6448865,
+              "longitude": -117.844137
+            },
+            {
+              "latitude": 33.6447083,
+              "longitude": -117.8437526
+            },
+            {
+              "latitude": 33.6446284,
+              "longitude": -117.8438061
+            },
+            {
+              "latitude": 33.6446111,
+              "longitude": -117.8437687
+            },
+            {
+              "latitude": 33.6445664,
+              "longitude": -117.8437986
+            },
+            {
+              "latitude": 33.6445393,
+              "longitude": -117.8437401
+            },
+            {
+              "latitude": 33.6442095,
+              "longitude": -117.8439604
+            },
+            {
+              "latitude": 33.6442356,
+              "longitude": -117.8440168
+            },
+            {
+              "latitude": 33.6441878,
+              "longitude": -117.8440488
+            },
+            {
+              "latitude": 33.6442052,
+              "longitude": -117.8440864
+            },
+            {
+              "latitude": 33.6441245,
+              "longitude": -117.8441403
+            },
+            {
+              "latitude": 33.6443178,
+              "longitude": -117.8445583
+            },
+            {
+              "latitude": 33.6444043,
+              "longitude": -117.8445006
+            },
+            {
+              "latitude": 33.6444085,
+              "longitude": -117.8445099
+            },
+            {
+              "latitude": 33.6444519,
+              "longitude": -117.8444809
+            },
+            {
+              "latitude": 33.644479,
+              "longitude": -117.8445393
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Howard Schneiderman Lecture Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6457559,
+              "longitude": -117.8448084
+            },
+            {
+              "latitude": 33.6453802,
+              "longitude": -117.844792
+            },
+            {
+              "latitude": 33.6453894,
+              "longitude": -117.8444858
+            },
+            {
+              "latitude": 33.6457651,
+              "longitude": -117.8445022
+            },
+            {
+              "latitude": 33.6457559,
+              "longitude": -117.8448084
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Science Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6462823,
+              "longitude": -117.840198
+            },
+            {
+              "latitude": 33.6461284,
+              "longitude": -117.8401755
+            },
+            {
+              "latitude": 33.6461491,
+              "longitude": -117.8399709
+            },
+            {
+              "latitude": 33.646303,
+              "longitude": -117.8399934
+            },
+            {
+              "latitude": 33.6462823,
+              "longitude": -117.840198
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Science Laboratory",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6457751,
+              "longitude": -117.8401568
+            },
+            {
+              "latitude": 33.6458105,
+              "longitude": -117.8398358
+            },
+            {
+              "latitude": 33.6460736,
+              "longitude": -117.8398776
+            },
+            {
+              "latitude": 33.6460382,
+              "longitude": -117.8401986
+            },
+            {
+              "latitude": 33.6457751,
+              "longitude": -117.8401568
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Science Tower",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6465046,
+              "longitude": -117.8406066
+            },
+            {
+              "latitude": 33.6463224,
+              "longitude": -117.8405769
+            },
+            {
+              "latitude": 33.6463952,
+              "longitude": -117.8399315
+            },
+            {
+              "latitude": 33.6465774,
+              "longitude": -117.8399612
+            },
+            {
+              "latitude": 33.6465046,
+              "longitude": -117.8406066
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Science Trailer",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6470125,
+              "longitude": -117.8403876
+            },
+            {
+              "latitude": 33.6469527,
+              "longitude": -117.8403475
+            },
+            {
+              "latitude": 33.6470594,
+              "longitude": -117.8401179
+            },
+            {
+              "latitude": 33.6471192,
+              "longitude": -117.840158
+            },
+            {
+              "latitude": 33.6470125,
+              "longitude": -117.8403876
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Science Trailer",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6468776,
+              "longitude": -117.8402975
+            },
+            {
+              "latitude": 33.6469889,
+              "longitude": -117.8400606
+            },
+            {
+              "latitude": 33.6470464,
+              "longitude": -117.8400996
+            },
+            {
+              "latitude": 33.6469352,
+              "longitude": -117.8403365
+            },
+            {
+              "latitude": 33.6468776,
+              "longitude": -117.8402975
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Steinhaus Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6460529,
+              "longitude": -117.845133
+            },
+            {
+              "latitude": 33.6460626,
+              "longitude": -117.8445321
+            },
+            {
+              "latitude": 33.6463946,
+              "longitude": -117.8445398
+            },
+            {
+              "latitude": 33.6463849,
+              "longitude": -117.8451407
+            },
+            {
+              "latitude": 33.6460529,
+              "longitude": -117.845133
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Student Services I, II",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6479436,
+              "longitude": -117.8423001
+            },
+            {
+              "latitude": 33.6477988,
+              "longitude": -117.8420853
+            },
+            {
+              "latitude": 33.6476034,
+              "longitude": -117.8422755
+            },
+            {
+              "latitude": 33.6477715,
+              "longitude": -117.8425073
+            },
+            {
+              "latitude": 33.647845,
+              "longitude": -117.8424371
+            },
+            {
+              "latitude": 33.647989,
+              "longitude": -117.8426488
+            },
+            {
+              "latitude": 33.6480671,
+              "longitude": -117.8426391
+            },
+            {
+              "latitude": 33.6480632,
+              "longitude": -117.8425506
+            },
+            {
+              "latitude": 33.6480906,
+              "longitude": -117.8425265
+            },
+            {
+              "latitude": 33.6481268,
+              "longitude": -117.8425226
+            },
+            {
+              "latitude": 33.6481252,
+              "longitude": -117.8424656
+            },
+            {
+              "latitude": 33.6480833,
+              "longitude": -117.842163
+            },
+            {
+              "latitude": 33.6479731,
+              "longitude": -117.8421833
+            },
+            {
+              "latitude": 33.6479852,
+              "longitude": -117.8422703
+            },
+            {
+              "latitude": 33.6479436,
+              "longitude": -117.8423001
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Physical Sciences Lecture Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6432811,
+              "longitude": -117.8440707
+            },
+            {
+              "latitude": 33.6433173,
+              "longitude": -117.8440461
+            },
+            {
+              "latitude": 33.6433787,
+              "longitude": -117.8441761
+            },
+            {
+              "latitude": 33.6435072,
+              "longitude": -117.8440884
+            },
+            {
+              "latitude": 33.643534,
+              "longitude": -117.8440583
+            },
+            {
+              "latitude": 33.6435485,
+              "longitude": -117.8440233
+            },
+            {
+              "latitude": 33.6435548,
+              "longitude": -117.8439756
+            },
+            {
+              "latitude": 33.6435456,
+              "longitude": -117.8439305
+            },
+            {
+              "latitude": 33.6434756,
+              "longitude": -117.8437761
+            },
+            {
+              "latitude": 33.6433645,
+              "longitude": -117.8438489
+            },
+            {
+              "latitude": 33.6433442,
+              "longitude": -117.8438042
+            },
+            {
+              "latitude": 33.6432424,
+              "longitude": -117.8438708
+            },
+            {
+              "latitude": 33.6432234,
+              "longitude": -117.8439487
+            },
+            {
+              "latitude": 33.6432811,
+              "longitude": -117.8440707
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Engineering & Computing Trailer",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6442374,
+              "longitude": -117.8400322
+            },
+            {
+              "latitude": 33.6440997,
+              "longitude": -117.8399034
+            },
+            {
+              "latitude": 33.6439241,
+              "longitude": -117.8401743
+            },
+            {
+              "latitude": 33.6438954,
+              "longitude": -117.8401475
+            },
+            {
+              "latitude": 33.643856,
+              "longitude": -117.8402082
+            },
+            {
+              "latitude": 33.6438308,
+              "longitude": -117.8401846
+            },
+            {
+              "latitude": 33.6437857,
+              "longitude": -117.8402543
+            },
+            {
+              "latitude": 33.643927,
+              "longitude": -117.8403864
+            },
+            {
+              "latitude": 33.6439673,
+              "longitude": -117.8403242
+            },
+            {
+              "latitude": 33.6439941,
+              "longitude": -117.8403492
+            },
+            {
+              "latitude": 33.6440335,
+              "longitude": -117.8402883
+            },
+            {
+              "latitude": 33.6440571,
+              "longitude": -117.8403103
+            },
+            {
+              "latitude": 33.6442374,
+              "longitude": -117.8400322
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Bonney Research Laboratory",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6467023,
+              "longitude": -117.8460791
+            },
+            {
+              "latitude": 33.6463062,
+              "longitude": -117.8460715
+            },
+            {
+              "latitude": 33.6463115,
+              "longitude": -117.8456788
+            },
+            {
+              "latitude": 33.6461803,
+              "longitude": -117.8456762
+            },
+            {
+              "latitude": 33.6461752,
+              "longitude": -117.8460553
+            },
+            {
+              "latitude": 33.6460505,
+              "longitude": -117.8460529
+            },
+            {
+              "latitude": 33.6460477,
+              "longitude": -117.8462705
+            },
+            {
+              "latitude": 33.6462204,
+              "longitude": -117.8462738
+            },
+            {
+              "latitude": 33.6462217,
+              "longitude": -117.8461802
+            },
+            {
+              "latitude": 33.6464629,
+              "longitude": -117.8461849
+            },
+            {
+              "latitude": 33.6464614,
+              "longitude": -117.8462922
+            },
+            {
+              "latitude": 33.646791,
+              "longitude": -117.8462985
+            },
+            {
+              "latitude": 33.6467926,
+              "longitude": -117.8461841
+            },
+            {
+              "latitude": 33.6467009,
+              "longitude": -117.8461824
+            },
+            {
+              "latitude": 33.6467023,
+              "longitude": -117.8460791
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Natural Sciences II",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.643983,
+              "longitude": -117.8451867
+            },
+            {
+              "latitude": 33.6439576,
+              "longitude": -117.8451586
+            },
+            {
+              "latitude": 33.6436414,
+              "longitude": -117.8455718
+            },
+            {
+              "latitude": 33.6438458,
+              "longitude": -117.8457975
+            },
+            {
+              "latitude": 33.644162,
+              "longitude": -117.8453843
+            },
+            {
+              "latitude": 33.6442532,
+              "longitude": -117.8452333
+            },
+            {
+              "latitude": 33.6442862,
+              "longitude": -117.8452594
+            },
+            {
+              "latitude": 33.6443071,
+              "longitude": -117.8451964
+            },
+            {
+              "latitude": 33.6443103,
+              "longitude": -117.8451168
+            },
+            {
+              "latitude": 33.644269,
+              "longitude": -117.8451168
+            },
+            {
+              "latitude": 33.6442271,
+              "longitude": -117.8450378
+            },
+            {
+              "latitude": 33.6442817,
+              "longitude": -117.8449543
+            },
+            {
+              "latitude": 33.6440983,
+              "longitude": -117.8447286
+            },
+            {
+              "latitude": 33.6438871,
+              "longitude": -117.8448565
+            },
+            {
+              "latitude": 33.6440658,
+              "longitude": -117.8450853
+            },
+            {
+              "latitude": 33.643983,
+              "longitude": -117.8451867
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Biological Sciences III",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6452138,
+              "longitude": -117.8457778
+            },
+            {
+              "latitude": 33.6450304,
+              "longitude": -117.8465791
+            },
+            {
+              "latitude": 33.6453671,
+              "longitude": -117.846691
+            },
+            {
+              "latitude": 33.6453808,
+              "longitude": -117.8466313
+            },
+            {
+              "latitude": 33.6454448,
+              "longitude": -117.8466524
+            },
+            {
+              "latitude": 33.6455184,
+              "longitude": -117.846331
+            },
+            {
+              "latitude": 33.6454549,
+              "longitude": -117.84631
+            },
+            {
+              "latitude": 33.6455449,
+              "longitude": -117.8459192
+            },
+            {
+              "latitude": 33.6456671,
+              "longitude": -117.8459219
+            },
+            {
+              "latitude": 33.6456679,
+              "longitude": -117.8458673
+            },
+            {
+              "latitude": 33.6457016,
+              "longitude": -117.8458677
+            },
+            {
+              "latitude": 33.6457031,
+              "longitude": -117.8456781
+            },
+            {
+              "latitude": 33.6456707,
+              "longitude": -117.8456778
+            },
+            {
+              "latitude": 33.6456716,
+              "longitude": -117.8456222
+            },
+            {
+              "latitude": 33.6455653,
+              "longitude": -117.8456198
+            },
+            {
+              "latitude": 33.6455655,
+              "longitude": -117.8455933
+            },
+            {
+              "latitude": 33.6451807,
+              "longitude": -117.8455897
+            },
+            {
+              "latitude": 33.6451795,
+              "longitude": -117.8457774
+            },
+            {
+              "latitude": 33.6452138,
+              "longitude": -117.8457778
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Engineering Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6438501,
+              "longitude": -117.8412612
+            },
+            {
+              "latitude": 33.6438758,
+              "longitude": -117.8412852
+            },
+            {
+              "latitude": 33.6439467,
+              "longitude": -117.8411754
+            },
+            {
+              "latitude": 33.6438555,
+              "longitude": -117.8410905
+            },
+            {
+              "latitude": 33.6438322,
+              "longitude": -117.8411267
+            },
+            {
+              "latitude": 33.6438242,
+              "longitude": -117.8411192
+            },
+            {
+              "latitude": 33.6439014,
+              "longitude": -117.8409996
+            },
+            {
+              "latitude": 33.643649,
+              "longitude": -117.8407645
+            },
+            {
+              "latitude": 33.6436158,
+              "longitude": -117.840816
+            },
+            {
+              "latitude": 33.6435542,
+              "longitude": -117.8407586
+            },
+            {
+              "latitude": 33.6434365,
+              "longitude": -117.8409409
+            },
+            {
+              "latitude": 33.6436773,
+              "longitude": -117.8411653
+            },
+            {
+              "latitude": 33.6434409,
+              "longitude": -117.8415315
+            },
+            {
+              "latitude": 33.6435236,
+              "longitude": -117.8416085
+            },
+            {
+              "latitude": 33.6434892,
+              "longitude": -117.8416618
+            },
+            {
+              "latitude": 33.643562,
+              "longitude": -117.8417297
+            },
+            {
+              "latitude": 33.6438514,
+              "longitude": -117.8412813
+            },
+            {
+              "latitude": 33.6438425,
+              "longitude": -117.841273
+            },
+            {
+              "latitude": 33.6438501,
+              "longitude": -117.8412612
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Disability Services Center",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6441443,
+              "longitude": -117.840236
+            },
+            {
+              "latitude": 33.6440091,
+              "longitude": -117.8404492
+            },
+            {
+              "latitude": 33.6441493,
+              "longitude": -117.8405774
+            },
+            {
+              "latitude": 33.6442844,
+              "longitude": -117.8403641
+            },
+            {
+              "latitude": 33.6441443,
+              "longitude": -117.840236
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Interim Classroom Facility",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6443232,
+              "longitude": -117.8399844
+            },
+            {
+              "latitude": 33.6444585,
+              "longitude": -117.8401054
+            },
+            {
+              "latitude": 33.6445385,
+              "longitude": -117.8399763
+            },
+            {
+              "latitude": 33.6444032,
+              "longitude": -117.8398554
+            },
+            {
+              "latitude": 33.6443232,
+              "longitude": -117.8399844
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Rockwell Engineering Center",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6439847,
+              "longitude": -117.8406762
+            },
+            {
+              "latitude": 33.6440478,
+              "longitude": -117.8405787
+            },
+            {
+              "latitude": 33.6438162,
+              "longitude": -117.8403624
+            },
+            {
+              "latitude": 33.6437531,
+              "longitude": -117.8404599
+            },
+            {
+              "latitude": 33.6439847,
+              "longitude": -117.8406762
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Physical Sciences Classroom Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6432965,
+              "longitude": -117.8433619
+            },
+            {
+              "latitude": 33.6433842,
+              "longitude": -117.8436611
+            },
+            {
+              "latitude": 33.6435166,
+              "longitude": -117.8436052
+            },
+            {
+              "latitude": 33.6434289,
+              "longitude": -117.8433059
+            },
+            {
+              "latitude": 33.6432965,
+              "longitude": -117.8433619
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Natural Sciences I",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6444395,
+              "longitude": -117.8456227
+            },
+            {
+              "latitude": 33.6443152,
+              "longitude": -117.8455201
+            },
+            {
+              "latitude": 33.6440555,
+              "longitude": -117.8459743
+            },
+            {
+              "latitude": 33.6443,
+              "longitude": -117.846176
+            },
+            {
+              "latitude": 33.6445597,
+              "longitude": -117.8457219
+            },
+            {
+              "latitude": 33.6444614,
+              "longitude": -117.8456407
+            },
+            {
+              "latitude": 33.6444785,
+              "longitude": -117.8456088
+            },
+            {
+              "latitude": 33.6444791,
+              "longitude": -117.8456092
+            },
+            {
+              "latitude": 33.6445119,
+              "longitude": -117.8455478
+            },
+            {
+              "latitude": 33.644647,
+              "longitude": -117.8456199
+            },
+            {
+              "latitude": 33.6447854,
+              "longitude": -117.8456938
+            },
+            {
+              "latitude": 33.6448952,
+              "longitude": -117.8453972
+            },
+            {
+              "latitude": 33.6447567,
+              "longitude": -117.8453233
+            },
+            {
+              "latitude": 33.6447558,
+              "longitude": -117.8453258
+            },
+            {
+              "latitude": 33.6447336,
+              "longitude": -117.8453155
+            },
+            {
+              "latitude": 33.6447293,
+              "longitude": -117.845364
+            },
+            {
+              "latitude": 33.6447123,
+              "longitude": -117.84541
+            },
+            {
+              "latitude": 33.6446677,
+              "longitude": -117.8454406
+            },
+            {
+              "latitude": 33.6446294,
+              "longitude": -117.8454406
+            },
+            {
+              "latitude": 33.6445954,
+              "longitude": -117.8454304
+            },
+            {
+              "latitude": 33.6445657,
+              "longitude": -117.8454074
+            },
+            {
+              "latitude": 33.6445487,
+              "longitude": -117.8453819
+            },
+            {
+              "latitude": 33.6445444,
+              "longitude": -117.8453462
+            },
+            {
+              "latitude": 33.6444981,
+              "longitude": -117.8453065
+            },
+            {
+              "latitude": 33.6444708,
+              "longitude": -117.8453563
+            },
+            {
+              "latitude": 33.6444698,
+              "longitude": -117.8453556
+            },
+            {
+              "latitude": 33.6443765,
+              "longitude": -117.84553
+            },
+            {
+              "latitude": 33.6444562,
+              "longitude": -117.8455915
+            },
+            {
+              "latitude": 33.6444395,
+              "longitude": -117.8456227
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Engineering Laboratory Facility",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6437325,
+              "longitude": -117.840026
+            },
+            {
+              "latitude": 33.6440635,
+              "longitude": -117.8394746
+            },
+            {
+              "latitude": 33.6438155,
+              "longitude": -117.8392598
+            },
+            {
+              "latitude": 33.6434845,
+              "longitude": -117.8398111
+            },
+            {
+              "latitude": 33.6437325,
+              "longitude": -117.840026
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Physical Sciences High Bay",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6434178,
+              "longitude": -117.84534
+            },
+            {
+              "latitude": 33.6435709,
+              "longitude": -117.8455213
+            },
+            {
+              "latitude": 33.6437704,
+              "longitude": -117.8452782
+            },
+            {
+              "latitude": 33.6437311,
+              "longitude": -117.8452317
+            },
+            {
+              "latitude": 33.6437898,
+              "longitude": -117.8451613
+            },
+            {
+              "latitude": 33.6436793,
+              "longitude": -117.8450285
+            },
+            {
+              "latitude": 33.6436174,
+              "longitude": -117.8450969
+            },
+            {
+              "latitude": 33.6434178,
+              "longitude": -117.84534
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Engineering Gateway",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6431433,
+              "longitude": -117.8399648
+            },
+            {
+              "latitude": 33.6429391,
+              "longitude": -117.8402816
+            },
+            {
+              "latitude": 33.6429579,
+              "longitude": -117.8402991
+            },
+            {
+              "latitude": 33.6428829,
+              "longitude": -117.8404156
+            },
+            {
+              "latitude": 33.642898,
+              "longitude": -117.8404295
+            },
+            {
+              "latitude": 33.6428659,
+              "longitude": -117.8404794
+            },
+            {
+              "latitude": 33.642904,
+              "longitude": -117.8405148
+            },
+            {
+              "latitude": 33.6428809,
+              "longitude": -117.8405509
+            },
+            {
+              "latitude": 33.6432903,
+              "longitude": -117.8409302
+            },
+            {
+              "latitude": 33.6433596,
+              "longitude": -117.8408224
+            },
+            {
+              "latitude": 33.6433317,
+              "longitude": -117.8407966
+            },
+            {
+              "latitude": 33.643365,
+              "longitude": -117.8407448
+            },
+            {
+              "latitude": 33.6433253,
+              "longitude": -117.8407081
+            },
+            {
+              "latitude": 33.6433489,
+              "longitude": -117.8406712
+            },
+            {
+              "latitude": 33.6430435,
+              "longitude": -117.8403886
+            },
+            {
+              "latitude": 33.6432528,
+              "longitude": -117.8400623
+            },
+            {
+              "latitude": 33.643513,
+              "longitude": -117.8403032
+            },
+            {
+              "latitude": 33.6435341,
+              "longitude": -117.8402704
+            },
+            {
+              "latitude": 33.6435779,
+              "longitude": -117.840311
+            },
+            {
+              "latitude": 33.6436102,
+              "longitude": -117.8402607
+            },
+            {
+              "latitude": 33.6436414,
+              "longitude": -117.8402896
+            },
+            {
+              "latitude": 33.6437166,
+              "longitude": -117.8401727
+            },
+            {
+              "latitude": 33.6431316,
+              "longitude": -117.83963
+            },
+            {
+              "latitude": 33.6432772,
+              "longitude": -117.8394036
+            },
+            {
+              "latitude": 33.6431977,
+              "longitude": -117.8393299
+            },
+            {
+              "latitude": 33.6430515,
+              "longitude": -117.8395572
+            },
+            {
+              "latitude": 33.6430132,
+              "longitude": -117.8395216
+            },
+            {
+              "latitude": 33.6429369,
+              "longitude": -117.8396401
+            },
+            {
+              "latitude": 33.6429651,
+              "longitude": -117.8396663
+            },
+            {
+              "latitude": 33.6429341,
+              "longitude": -117.8397145
+            },
+            {
+              "latitude": 33.6429755,
+              "longitude": -117.839753
+            },
+            {
+              "latitude": 33.642953,
+              "longitude": -117.8397878
+            },
+            {
+              "latitude": 33.6431433,
+              "longitude": -117.8399648
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Croul Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6434129,
+              "longitude": -117.844595
+            },
+            {
+              "latitude": 33.6435723,
+              "longitude": -117.8449453
+            },
+            {
+              "latitude": 33.643999,
+              "longitude": -117.8446652
+            },
+            {
+              "latitude": 33.6439028,
+              "longitude": -117.8444467
+            },
+            {
+              "latitude": 33.6438473,
+              "longitude": -117.8444578
+            },
+            {
+              "latitude": 33.6438082,
+              "longitude": -117.844447
+            },
+            {
+              "latitude": 33.6437707,
+              "longitude": -117.8444235
+            },
+            {
+              "latitude": 33.6437391,
+              "longitude": -117.844382
+            },
+            {
+              "latitude": 33.6434129,
+              "longitude": -117.844595
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Track & Field House",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6498973,
+              "longitude": -117.8492044
+            },
+            {
+              "latitude": 33.6497851,
+              "longitude": -117.8492781
+            },
+            {
+              "latitude": 33.649896,
+              "longitude": -117.8495219
+            },
+            {
+              "latitude": 33.6500082,
+              "longitude": -117.8494482
+            },
+            {
+              "latitude": 33.6498973,
+              "longitude": -117.8492044
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Summer Session B",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6462542,
+              "longitude": -117.8375885
+            },
+            {
+              "latitude": 33.6463869,
+              "longitude": -117.8374929
+            },
+            {
+              "latitude": 33.6463508,
+              "longitude": -117.8374206
+            },
+            {
+              "latitude": 33.6462827,
+              "longitude": -117.8374697
+            },
+            {
+              "latitude": 33.6461433,
+              "longitude": -117.8372952
+            },
+            {
+              "latitude": 33.646079,
+              "longitude": -117.8373693
+            },
+            {
+              "latitude": 33.6462542,
+              "longitude": -117.8375885
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Summer Session A",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6465608,
+              "longitude": -117.8372429
+            },
+            {
+              "latitude": 33.6465576,
+              "longitude": -117.8372032
+            },
+            {
+              "latitude": 33.6463735,
+              "longitude": -117.8372245
+            },
+            {
+              "latitude": 33.6463847,
+              "longitude": -117.8373641
+            },
+            {
+              "latitude": 33.6464941,
+              "longitude": -117.8373515
+            },
+            {
+              "latitude": 33.6465034,
+              "longitude": -117.8374684
+            },
+            {
+              "latitude": 33.646609,
+              "longitude": -117.8374562
+            },
+            {
+              "latitude": 33.6465917,
+              "longitude": -117.8372393
+            },
+            {
+              "latitude": 33.6465608,
+              "longitude": -117.8372429
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Studio Four",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6500107,
+              "longitude": -117.8458306
+            },
+            {
+              "latitude": 33.65011,
+              "longitude": -117.8458885
+            },
+            {
+              "latitude": 33.6502644,
+              "longitude": -117.8455065
+            },
+            {
+              "latitude": 33.6501651,
+              "longitude": -117.8454486
+            },
+            {
+              "latitude": 33.6500107,
+              "longitude": -117.8458306
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Student Health Center II",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6459229,
+              "longitude": -117.8349678
+            },
+            {
+              "latitude": 33.645922,
+              "longitude": -117.8348359
+            },
+            {
+              "latitude": 33.6453129,
+              "longitude": -117.834842
+            },
+            {
+              "latitude": 33.6453139,
+              "longitude": -117.8349739
+            },
+            {
+              "latitude": 33.6459229,
+              "longitude": -117.8349678
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Science Plaza B",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6468209,
+              "longitude": -117.8390053
+            },
+            {
+              "latitude": 33.6468132,
+              "longitude": -117.8390685
+            },
+            {
+              "latitude": 33.646922,
+              "longitude": -117.8390877
+            },
+            {
+              "latitude": 33.6468978,
+              "longitude": -117.8392854
+            },
+            {
+              "latitude": 33.6470766,
+              "longitude": -117.8393169
+            },
+            {
+              "latitude": 33.6470845,
+              "longitude": -117.8392522
+            },
+            {
+              "latitude": 33.6471411,
+              "longitude": -117.8392622
+            },
+            {
+              "latitude": 33.6471573,
+              "longitude": -117.8391292
+            },
+            {
+              "latitude": 33.6471008,
+              "longitude": -117.8391192
+            },
+            {
+              "latitude": 33.6471109,
+              "longitude": -117.839036
+            },
+            {
+              "latitude": 33.6469942,
+              "longitude": -117.8390154
+            },
+            {
+              "latitude": 33.6470099,
+              "longitude": -117.838887
+            },
+            {
+              "latitude": 33.6469578,
+              "longitude": -117.8388778
+            },
+            {
+              "latitude": 33.6469655,
+              "longitude": -117.8388148
+            },
+            {
+              "latitude": 33.6468467,
+              "longitude": -117.8387939
+            },
+            {
+              "latitude": 33.646839,
+              "longitude": -117.8388568
+            },
+            {
+              "latitude": 33.6467813,
+              "longitude": -117.8388467
+            },
+            {
+              "latitude": 33.6467632,
+              "longitude": -117.8389951
+            },
+            {
+              "latitude": 33.6468209,
+              "longitude": -117.8390053
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Science Plaza A",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6470844,
+              "longitude": -117.8397202
+            },
+            {
+              "latitude": 33.6470931,
+              "longitude": -117.8396484
+            },
+            {
+              "latitude": 33.6471435,
+              "longitude": -117.8396572
+            },
+            {
+              "latitude": 33.6471601,
+              "longitude": -117.8395204
+            },
+            {
+              "latitude": 33.6471099,
+              "longitude": -117.8395116
+            },
+            {
+              "latitude": 33.6471188,
+              "longitude": -117.8394388
+            },
+            {
+              "latitude": 33.6469955,
+              "longitude": -117.8394171
+            },
+            {
+              "latitude": 33.6469866,
+              "longitude": -117.8394899
+            },
+            {
+              "latitude": 33.6468896,
+              "longitude": -117.8394728
+            },
+            {
+              "latitude": 33.6468982,
+              "longitude": -117.839403
+            },
+            {
+              "latitude": 33.6467732,
+              "longitude": -117.839381
+            },
+            {
+              "latitude": 33.6467646,
+              "longitude": -117.8394507
+            },
+            {
+              "latitude": 33.6467166,
+              "longitude": -117.8394423
+            },
+            {
+              "latitude": 33.6466987,
+              "longitude": -117.8395893
+            },
+            {
+              "latitude": 33.6467467,
+              "longitude": -117.8395978
+            },
+            {
+              "latitude": 33.6467393,
+              "longitude": -117.8396581
+            },
+            {
+              "latitude": 33.6468643,
+              "longitude": -117.8396801
+            },
+            {
+              "latitude": 33.6468717,
+              "longitude": -117.8396198
+            },
+            {
+              "latitude": 33.6469686,
+              "longitude": -117.8396369
+            },
+            {
+              "latitude": 33.6469611,
+              "longitude": -117.8396984
+            },
+            {
+              "latitude": 33.6470844,
+              "longitude": -117.8397202
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Ecology II",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6466709,
+              "longitude": -117.8385598
+            },
+            {
+              "latitude": 33.6465683,
+              "longitude": -117.8385417
+            },
+            {
+              "latitude": 33.6465597,
+              "longitude": -117.8386115
+            },
+            {
+              "latitude": 33.6465085,
+              "longitude": -117.8386024
+            },
+            {
+              "latitude": 33.6464591,
+              "longitude": -117.839007
+            },
+            {
+              "latitude": 33.6464983,
+              "longitude": -117.8390139
+            },
+            {
+              "latitude": 33.6464833,
+              "longitude": -117.8391368
+            },
+            {
+              "latitude": 33.6464444,
+              "longitude": -117.8391299
+            },
+            {
+              "latitude": 33.6464194,
+              "longitude": -117.8393342
+            },
+            {
+              "latitude": 33.6465941,
+              "longitude": -117.839365
+            },
+            {
+              "latitude": 33.6466025,
+              "longitude": -117.8392958
+            },
+            {
+              "latitude": 33.6466542,
+              "longitude": -117.8393049
+            },
+            {
+              "latitude": 33.6466712,
+              "longitude": -117.8391656
+            },
+            {
+              "latitude": 33.6466196,
+              "longitude": -117.8391565
+            },
+            {
+              "latitude": 33.6466424,
+              "longitude": -117.8389696
+            },
+            {
+              "latitude": 33.6466887,
+              "longitude": -117.8389778
+            },
+            {
+              "latitude": 33.6467297,
+              "longitude": -117.8386414
+            },
+            {
+              "latitude": 33.6466624,
+              "longitude": -117.8386296
+            },
+            {
+              "latitude": 33.6466709,
+              "longitude": -117.8385598
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Ecology I",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6461044,
+              "longitude": -117.8383971
+            },
+            {
+              "latitude": 33.6460526,
+              "longitude": -117.8383887
+            },
+            {
+              "latitude": 33.6459678,
+              "longitude": -117.8391395
+            },
+            {
+              "latitude": 33.6462415,
+              "longitude": -117.8391841
+            },
+            {
+              "latitude": 33.6462659,
+              "longitude": -117.8389683
+            },
+            {
+              "latitude": 33.6463066,
+              "longitude": -117.8389749
+            },
+            {
+              "latitude": 33.6463329,
+              "longitude": -117.8387419
+            },
+            {
+              "latitude": 33.6462922,
+              "longitude": -117.8387353
+            },
+            {
+              "latitude": 33.6463263,
+              "longitude": -117.8384333
+            },
+            {
+              "latitude": 33.6462752,
+              "longitude": -117.838425
+            },
+            {
+              "latitude": 33.6462822,
+              "longitude": -117.8383636
+            },
+            {
+              "latitude": 33.6461113,
+              "longitude": -117.8383357
+            },
+            {
+              "latitude": 33.6461044,
+              "longitude": -117.8383971
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Robert Cohen Theatre & Dance Studios",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6494416,
+              "longitude": -117.8457092
+            },
+            {
+              "latitude": 33.6495139,
+              "longitude": -117.845556
+            },
+            {
+              "latitude": 33.6493831,
+              "longitude": -117.845467
+            },
+            {
+              "latitude": 33.6493108,
+              "longitude": -117.8456202
+            },
+            {
+              "latitude": 33.6494416,
+              "longitude": -117.8457092
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Merage School of Business II",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6467118,
+              "longitude": -117.8383628
+            },
+            {
+              "latitude": 33.6467765,
+              "longitude": -117.8377896
+            },
+            {
+              "latitude": 33.6465998,
+              "longitude": -117.8377608
+            },
+            {
+              "latitude": 33.6465351,
+              "longitude": -117.838334
+            },
+            {
+              "latitude": 33.6467118,
+              "longitude": -117.8383628
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "KUCI Radio Station",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6463347,
+              "longitude": -117.847235
+            },
+            {
+              "latitude": 33.6463832,
+              "longitude": -117.8472368
+            },
+            {
+              "latitude": 33.6463866,
+              "longitude": -117.8471063
+            },
+            {
+              "latitude": 33.6463381,
+              "longitude": -117.8471045
+            },
+            {
+              "latitude": 33.6463347,
+              "longitude": -117.847235
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Drama Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6496049,
+              "longitude": -117.845048
+            },
+            {
+              "latitude": 33.6493787,
+              "longitude": -117.8449103
+            },
+            {
+              "latitude": 33.6493279,
+              "longitude": -117.8450307
+            },
+            {
+              "latitude": 33.6496553,
+              "longitude": -117.8452301
+            },
+            {
+              "latitude": 33.6497649,
+              "longitude": -117.8449704
+            },
+            {
+              "latitude": 33.649914,
+              "longitude": -117.8450612
+            },
+            {
+              "latitude": 33.649967,
+              "longitude": -117.8449355
+            },
+            {
+              "latitude": 33.6497167,
+              "longitude": -117.844783
+            },
+            {
+              "latitude": 33.6496049,
+              "longitude": -117.845048
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Crawford Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6483294,
+              "longitude": -117.8482195
+            },
+            {
+              "latitude": 33.6480536,
+              "longitude": -117.8476671
+            },
+            {
+              "latitude": 33.6477747,
+              "longitude": -117.847868
+            },
+            {
+              "latitude": 33.647884,
+              "longitude": -117.8480869
+            },
+            {
+              "latitude": 33.6479365,
+              "longitude": -117.848192
+            },
+            {
+              "latitude": 33.6480505,
+              "longitude": -117.8484204
+            },
+            {
+              "latitude": 33.6483294,
+              "longitude": -117.8482195
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Crawford Clubhouse",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6475107,
+              "longitude": -117.8491464
+            },
+            {
+              "latitude": 33.6476033,
+              "longitude": -117.849316
+            },
+            {
+              "latitude": 33.6477246,
+              "longitude": -117.8492204
+            },
+            {
+              "latitude": 33.647632,
+              "longitude": -117.8490508
+            },
+            {
+              "latitude": 33.6475107,
+              "longitude": -117.8491464
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Continuing Education 6",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6450878,
+              "longitude": -117.836422
+            },
+            {
+              "latitude": 33.6451092,
+              "longitude": -117.8355496
+            },
+            {
+              "latitude": 33.6450151,
+              "longitude": -117.8355463
+            },
+            {
+              "latitude": 33.6449937,
+              "longitude": -117.8364186
+            },
+            {
+              "latitude": 33.6450878,
+              "longitude": -117.836422
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Continuing Education 5",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6452687,
+              "longitude": -117.8365206
+            },
+            {
+              "latitude": 33.6452687,
+              "longitude": -117.8361892
+            },
+            {
+              "latitude": 33.6451524,
+              "longitude": -117.8361892
+            },
+            {
+              "latitude": 33.6451524,
+              "longitude": -117.8365206
+            },
+            {
+              "latitude": 33.6452687,
+              "longitude": -117.8365206
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Continuing Education 4",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6460517,
+              "longitude": -117.8374022
+            },
+            {
+              "latitude": 33.6460566,
+              "longitude": -117.8371709
+            },
+            {
+              "latitude": 33.6459296,
+              "longitude": -117.837167
+            },
+            {
+              "latitude": 33.6459116,
+              "longitude": -117.8371595
+            },
+            {
+              "latitude": 33.6458186,
+              "longitude": -117.8372747
+            },
+            {
+              "latitude": 33.6459247,
+              "longitude": -117.8373983
+            },
+            {
+              "latitude": 33.6460517,
+              "longitude": -117.8374022
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Continuing Education 3",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6459235,
+              "longitude": -117.8371392
+            },
+            {
+              "latitude": 33.6459121,
+              "longitude": -117.8370452
+            },
+            {
+              "latitude": 33.6458288,
+              "longitude": -117.8370598
+            },
+            {
+              "latitude": 33.6458198,
+              "longitude": -117.8369857
+            },
+            {
+              "latitude": 33.6456532,
+              "longitude": -117.8370149
+            },
+            {
+              "latitude": 33.6456622,
+              "longitude": -117.837089
+            },
+            {
+              "latitude": 33.6457218,
+              "longitude": -117.8375795
+            },
+            {
+              "latitude": 33.6458175,
+              "longitude": -117.8375627
+            },
+            {
+              "latitude": 33.6458214,
+              "longitude": -117.8375949
+            },
+            {
+              "latitude": 33.6459757,
+              "longitude": -117.8375679
+            },
+            {
+              "latitude": 33.6459571,
+              "longitude": -117.8374148
+            },
+            {
+              "latitude": 33.6458284,
+              "longitude": -117.8374374
+            },
+            {
+              "latitude": 33.645795,
+              "longitude": -117.8371617
+            },
+            {
+              "latitude": 33.6459235,
+              "longitude": -117.8371392
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Continuing Education",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6452194,
+              "longitude": -117.8346886
+            },
+            {
+              "latitude": 33.644643,
+              "longitude": -117.8346762
+            },
+            {
+              "latitude": 33.6446373,
+              "longitude": -117.8351054
+            },
+            {
+              "latitude": 33.6447906,
+              "longitude": -117.8351109
+            },
+            {
+              "latitude": 33.6447917,
+              "longitude": -117.8350486
+            },
+            {
+              "latitude": 33.6452124,
+              "longitude": -117.8350611
+            },
+            {
+              "latitude": 33.6452194,
+              "longitude": -117.8346886
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Claire Trevor Theatre",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6495062,
+              "longitude": -117.8454778
+            },
+            {
+              "latitude": 33.6495724,
+              "longitude": -117.8453225
+            },
+            {
+              "latitude": 33.6492972,
+              "longitude": -117.8451534
+            },
+            {
+              "latitude": 33.6492311,
+              "longitude": -117.8453087
+            },
+            {
+              "latitude": 33.6495062,
+              "longitude": -117.8454778
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "William J. Gillespie Performance Studios",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6505051,
+              "longitude": -117.845606
+            },
+            {
+              "latitude": 33.6507957,
+              "longitude": -117.8448802
+            },
+            {
+              "latitude": 33.6506694,
+              "longitude": -117.8448073
+            },
+            {
+              "latitude": 33.6503789,
+              "longitude": -117.8455331
+            },
+            {
+              "latitude": 33.6505051,
+              "longitude": -117.845606
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Donald Bren Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6431799,
+              "longitude": -117.8421809
+            },
+            {
+              "latitude": 33.6431755,
+              "longitude": -117.8422046
+            },
+            {
+              "latitude": 33.6434792,
+              "longitude": -117.8422864
+            },
+            {
+              "latitude": 33.6435452,
+              "longitude": -117.8419327
+            },
+            {
+              "latitude": 33.6433364,
+              "longitude": -117.8418766
+            },
+            {
+              "latitude": 33.643346,
+              "longitude": -117.8418253
+            },
+            {
+              "latitude": 33.643301,
+              "longitude": -117.8418132
+            },
+            {
+              "latitude": 33.6433552,
+              "longitude": -117.8415225
+            },
+            {
+              "latitude": 33.6431671,
+              "longitude": -117.8414719
+            },
+            {
+              "latitude": 33.6431147,
+              "longitude": -117.8415563
+            },
+            {
+              "latitude": 33.6430922,
+              "longitude": -117.8415931
+            },
+            {
+              "latitude": 33.642992,
+              "longitude": -117.8421303
+            },
+            {
+              "latitude": 33.6431799,
+              "longitude": -117.8421809
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Mesa Arts Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6501125,
+              "longitude": -117.846169
+            },
+            {
+              "latitude": 33.6499476,
+              "longitude": -117.8466004
+            },
+            {
+              "latitude": 33.6501916,
+              "longitude": -117.8464482
+            },
+            {
+              "latitude": 33.6504165,
+              "longitude": -117.8463408
+            },
+            {
+              "latitude": 33.6501125,
+              "longitude": -117.846169
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Langson Library",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6475074,
+              "longitude": -117.8410722
+            },
+            {
+              "latitude": 33.647249,
+              "longitude": -117.8406627
+            },
+            {
+              "latitude": 33.6467563,
+              "longitude": -117.8411112
+            },
+            {
+              "latitude": 33.6470143,
+              "longitude": -117.8415201
+            },
+            {
+              "latitude": 33.6472136,
+              "longitude": -117.8413387
+            },
+            {
+              "latitude": 33.647316,
+              "longitude": -117.8412465
+            },
+            {
+              "latitude": 33.6475074,
+              "longitude": -117.8410722
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Arts Annex",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6465181,
+              "longitude": -117.8469931
+            },
+            {
+              "latitude": 33.6465208,
+              "longitude": -117.8467873
+            },
+            {
+              "latitude": 33.6464261,
+              "longitude": -117.8467855
+            },
+            {
+              "latitude": 33.6464234,
+              "longitude": -117.8469912
+            },
+            {
+              "latitude": 33.6465181,
+              "longitude": -117.8469931
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Central Plant",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6477522,
+              "longitude": -117.8470897
+            },
+            {
+              "latitude": 33.6481814,
+              "longitude": -117.8467802
+            },
+            {
+              "latitude": 33.6480516,
+              "longitude": -117.8465205
+            },
+            {
+              "latitude": 33.6476224,
+              "longitude": -117.8468301
+            },
+            {
+              "latitude": 33.6477522,
+              "longitude": -117.8470897
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Art Studio",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6499658,
+              "longitude": -117.8446185
+            },
+            {
+              "latitude": 33.6498823,
+              "longitude": -117.8448281
+            },
+            {
+              "latitude": 33.6502106,
+              "longitude": -117.8450167
+            },
+            {
+              "latitude": 33.650294,
+              "longitude": -117.8448071
+            },
+            {
+              "latitude": 33.6499658,
+              "longitude": -117.8446185
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Art, Culture & Technology",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6504781,
+              "longitude": -117.8451765
+            },
+            {
+              "latitude": 33.6507305,
+              "longitude": -117.8445461
+            },
+            {
+              "latitude": 33.6506053,
+              "longitude": -117.8444738
+            },
+            {
+              "latitude": 33.650353,
+              "longitude": -117.8451042
+            },
+            {
+              "latitude": 33.6504781,
+              "longitude": -117.8451765
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Calif. Inst. for Telecom. & Info. Tech.",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6429796,
+              "longitude": -117.8410779
+            },
+            {
+              "latitude": 33.6430176,
+              "longitude": -117.8409381
+            },
+            {
+              "latitude": 33.6429852,
+              "longitude": -117.8409254
+            },
+            {
+              "latitude": 33.6430078,
+              "longitude": -117.8408419
+            },
+            {
+              "latitude": 33.6428533,
+              "longitude": -117.8407813
+            },
+            {
+              "latitude": 33.6428325,
+              "longitude": -117.8408579
+            },
+            {
+              "latitude": 33.642784,
+              "longitude": -117.8408389
+            },
+            {
+              "latitude": 33.6425909,
+              "longitude": -117.8415505
+            },
+            {
+              "latitude": 33.6428309,
+              "longitude": -117.8416445
+            },
+            {
+              "latitude": 33.6428774,
+              "longitude": -117.8414732
+            },
+            {
+              "latitude": 33.6430105,
+              "longitude": -117.8415253
+            },
+            {
+              "latitude": 33.643052,
+              "longitude": -117.8413723
+            },
+            {
+              "latitude": 33.6430911,
+              "longitude": -117.8414064
+            },
+            {
+              "latitude": 33.6432089,
+              "longitude": -117.8412118
+            },
+            {
+              "latitude": 33.6431176,
+              "longitude": -117.841132
+            },
+            {
+              "latitude": 33.6429796,
+              "longitude": -117.8410779
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Multipurpose Science & Technology Bldg.",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6422069,
+              "longitude": -117.8448792
+            },
+            {
+              "latitude": 33.6422128,
+              "longitude": -117.8444483
+            },
+            {
+              "latitude": 33.642219,
+              "longitude": -117.8440059
+            },
+            {
+              "latitude": 33.6418857,
+              "longitude": -117.8439992
+            },
+            {
+              "latitude": 33.6418736,
+              "longitude": -117.8448725
+            },
+            {
+              "latitude": 33.6422069,
+              "longitude": -117.8448792
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Grounds Maintenance Facility",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6429203,
+              "longitude": -117.8488291
+            },
+            {
+              "latitude": 33.6429463,
+              "longitude": -117.8486287
+            },
+            {
+              "latitude": 33.6426751,
+              "longitude": -117.8485778
+            },
+            {
+              "latitude": 33.642649,
+              "longitude": -117.8487782
+            },
+            {
+              "latitude": 33.6429203,
+              "longitude": -117.8488291
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Administrative Modular",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6419102,
+              "longitude": -117.8463572
+            },
+            {
+              "latitude": 33.642015,
+              "longitude": -117.845987
+            },
+            {
+              "latitude": 33.6418528,
+              "longitude": -117.8459207
+            },
+            {
+              "latitude": 33.641748,
+              "longitude": -117.8462909
+            },
+            {
+              "latitude": 33.6419102,
+              "longitude": -117.8463572
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Building Services Bldg.",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6425514,
+              "longitude": -117.8486394
+            },
+            {
+              "latitude": 33.6425873,
+              "longitude": -117.8484443
+            },
+            {
+              "latitude": 33.6423191,
+              "longitude": -117.848373
+            },
+            {
+              "latitude": 33.6422832,
+              "longitude": -117.8485681
+            },
+            {
+              "latitude": 33.6425514,
+              "longitude": -117.8486394
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Anteater Instruction & Research Building",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6428477,
+              "longitude": -117.838435
+            },
+            {
+              "latitude": 33.6430247,
+              "longitude": -117.8383759
+            },
+            {
+              "latitude": 33.6428228,
+              "longitude": -117.8375033
+            },
+            {
+              "latitude": 33.6427906,
+              "longitude": -117.837514
+            },
+            {
+              "latitude": 33.6426458,
+              "longitude": -117.8375624
+            },
+            {
+              "latitude": 33.6428477,
+              "longitude": -117.838435
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Student Services I, II",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6461617,
+              "longitude": -117.8490734
+            },
+            {
+              "latitude": 33.6461315,
+              "longitude": -117.8490385
+            },
+            {
+              "latitude": 33.6461611,
+              "longitude": -117.8490015
+            },
+            {
+              "latitude": 33.6461188,
+              "longitude": -117.8489525
+            },
+            {
+              "latitude": 33.6460655,
+              "longitude": -117.8490191
+            },
+            {
+              "latitude": 33.6459996,
+              "longitude": -117.8489428
+            },
+            {
+              "latitude": 33.6459906,
+              "longitude": -117.8489541
+            },
+            {
+              "latitude": 33.6459723,
+              "longitude": -117.8489338
+            },
+            {
+              "latitude": 33.6459714,
+              "longitude": -117.8490484
+            },
+            {
+              "latitude": 33.645981,
+              "longitude": -117.8490645
+            },
+            {
+              "latitude": 33.6459877,
+              "longitude": -117.8490848
+            },
+            {
+              "latitude": 33.6459874,
+              "longitude": -117.8491039
+            },
+            {
+              "latitude": 33.645981,
+              "longitude": -117.8491249
+            },
+            {
+              "latitude": 33.6459714,
+              "longitude": -117.8491371
+            },
+            {
+              "latitude": 33.6459688,
+              "longitude": -117.8492577
+            },
+            {
+              "latitude": 33.6459895,
+              "longitude": -117.8492333
+            },
+            {
+              "latitude": 33.6460124,
+              "longitude": -117.8492598
+            },
+            {
+              "latitude": 33.6461617,
+              "longitude": -117.8490734
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social & Behavioral Sciences Gateway",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6474956,
+              "longitude": -117.839009
+            },
+            {
+              "latitude": 33.6473083,
+              "longitude": -117.838584
+            },
+            {
+              "latitude": 33.6471253,
+              "longitude": -117.8387003
+            },
+            {
+              "latitude": 33.6472994,
+              "longitude": -117.8390952
+            },
+            {
+              "latitude": 33.6472584,
+              "longitude": -117.8391212
+            },
+            {
+              "latitude": 33.6474457,
+              "longitude": -117.8395462
+            },
+            {
+              "latitude": 33.6476287,
+              "longitude": -117.8394299
+            },
+            {
+              "latitude": 33.6474546,
+              "longitude": -117.839035
+            },
+            {
+              "latitude": 33.6474956,
+              "longitude": -117.839009
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Social Science Lecture Hall",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6473806,
+              "longitude": -117.8396927
+            },
+            {
+              "latitude": 33.6473099,
+              "longitude": -117.8395817
+            },
+            {
+              "latitude": 33.6472337,
+              "longitude": -117.8395672
+            },
+            {
+              "latitude": 33.6471435,
+              "longitude": -117.8396572
+            },
+            {
+              "latitude": 33.6470931,
+              "longitude": -117.8396484
+            },
+            {
+              "latitude": 33.6470844,
+              "longitude": -117.8397202
+            },
+            {
+              "latitude": 33.6470786,
+              "longitude": -117.8397207
+            },
+            {
+              "latitude": 33.6470748,
+              "longitude": -117.8397473
+            },
+            {
+              "latitude": 33.6470812,
+              "longitude": -117.8397732
+            },
+            {
+              "latitude": 33.6471568,
+              "longitude": -117.8398943
+            },
+            {
+              "latitude": 33.6471637,
+              "longitude": -117.8398881
+            },
+            {
+              "latitude": 33.6471821,
+              "longitude": -117.8399177
+            },
+            {
+              "latitude": 33.6472196,
+              "longitude": -117.8399233
+            },
+            {
+              "latitude": 33.6472259,
+              "longitude": -117.8398632
+            },
+            {
+              "latitude": 33.6472749,
+              "longitude": -117.8398705
+            },
+            {
+              "latitude": 33.6473694,
+              "longitude": -117.8397853
+            },
+            {
+              "latitude": 33.6473806,
+              "longitude": -117.8396927
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Pippin Commons",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6444981,
+              "longitude": -117.8369196
+            },
+            {
+              "latitude": 33.6445149,
+              "longitude": -117.8367159
+            },
+            {
+              "latitude": 33.6445709,
+              "longitude": -117.8367226
+            },
+            {
+              "latitude": 33.6445768,
+              "longitude": -117.8366513
+            },
+            {
+              "latitude": 33.6446263,
+              "longitude": -117.8366572
+            },
+            {
+              "latitude": 33.6446248,
+              "longitude": -117.8366756
+            },
+            {
+              "latitude": 33.6447339,
+              "longitude": -117.8366887
+            },
+            {
+              "latitude": 33.644736,
+              "longitude": -117.8366637
+            },
+            {
+              "latitude": 33.6449635,
+              "longitude": -117.8366914
+            },
+            {
+              "latitude": 33.6449608,
+              "longitude": -117.8367233
+            },
+            {
+              "latitude": 33.6450716,
+              "longitude": -117.8367369
+            },
+            {
+              "latitude": 33.6450681,
+              "longitude": -117.8367775
+            },
+            {
+              "latitude": 33.6451062,
+              "longitude": -117.8367821
+            },
+            {
+              "latitude": 33.6451006,
+              "longitude": -117.8368482
+            },
+            {
+              "latitude": 33.6450851,
+              "longitude": -117.8368463
+            },
+            {
+              "latitude": 33.6450746,
+              "longitude": -117.8369707
+            },
+            {
+              "latitude": 33.6450547,
+              "longitude": -117.8369682
+            },
+            {
+              "latitude": 33.6450522,
+              "longitude": -117.8369978
+            },
+            {
+              "latitude": 33.6449066,
+              "longitude": -117.8369801
+            },
+            {
+              "latitude": 33.6449086,
+              "longitude": -117.8369562
+            },
+            {
+              "latitude": 33.6448399,
+              "longitude": -117.8369479
+            },
+            {
+              "latitude": 33.6448389,
+              "longitude": -117.8369602
+            },
+            {
+              "latitude": 33.6444981,
+              "longitude": -117.8369196
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Merage School of Business",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6468285,
+              "longitude": -117.8383271
+            },
+            {
+              "latitude": 33.6470063,
+              "longitude": -117.83825
+            },
+            {
+              "latitude": 33.6468631,
+              "longitude": -117.8377597
+            },
+            {
+              "latitude": 33.6467923,
+              "longitude": -117.8377676
+            },
+            {
+              "latitude": 33.6468104,
+              "longitude": -117.8375679
+            },
+            {
+              "latitude": 33.6469783,
+              "longitude": -117.8376055
+            },
+            {
+              "latitude": 33.6471939,
+              "longitude": -117.838337
+            },
+            {
+              "latitude": 33.6470359,
+              "longitude": -117.8384438
+            },
+            {
+              "latitude": 33.6468153,
+              "longitude": -117.8384497
+            },
+            {
+              "latitude": 33.6468285,
+              "longitude": -117.8383271
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Contemporary Arts Center",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6502806,
+              "longitude": -117.845199
+            },
+            {
+              "latitude": 33.6500261,
+              "longitude": -117.8450381
+            },
+            {
+              "latitude": 33.6499703,
+              "longitude": -117.8451856
+            },
+            {
+              "latitude": 33.6498051,
+              "longitude": -117.845073
+            },
+            {
+              "latitude": 33.6497292,
+              "longitude": -117.8452634
+            },
+            {
+              "latitude": 33.6499055,
+              "longitude": -117.845368
+            },
+            {
+              "latitude": 33.6499234,
+              "longitude": -117.8453197
+            },
+            {
+              "latitude": 33.6501556,
+              "longitude": -117.8454351
+            },
+            {
+              "latitude": 33.6501958,
+              "longitude": -117.8453412
+            },
+            {
+              "latitude": 33.6502226,
+              "longitude": -117.8453546
+            },
+            {
+              "latitude": 33.6502806,
+              "longitude": -117.845199
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  },
+  {
+    "name": "Multipurpose Academic & Administrative Bldg.",
+    "entityTypeId": 5,
+    "payload": {
+      "geo": {
+        "extent": {
+          "verticies": [
+            {
+              "latitude": 33.6472312,
+              "longitude": -117.8373329
+            },
+            {
+              "latitude": 33.6471253,
+              "longitude": -117.837356
+            },
+            {
+              "latitude": 33.647086,
+              "longitude": -117.8370957
+            },
+            {
+              "latitude": 33.6470572,
+              "longitude": -117.837102
+            },
+            {
+              "latitude": 33.6470426,
+              "longitude": -117.8370052
+            },
+            {
+              "latitude": 33.6470139,
+              "longitude": -117.8370115
+            },
+            {
+              "latitude": 33.6469997,
+              "longitude": -117.8369179
+            },
+            {
+              "latitude": 33.646972,
+              "longitude": -117.8369239
+            },
+            {
+              "latitude": 33.6469577,
+              "longitude": -117.8368292
+            },
+            {
+              "latitude": 33.6469171,
+              "longitude": -117.8368381
+            },
+            {
+              "latitude": 33.6468999,
+              "longitude": -117.8367241
+            },
+            {
+              "latitude": 33.6471316,
+              "longitude": -117.8366736
+            },
+            {
+              "latitude": 33.6472312,
+              "longitude": -117.8373329
+            }
+          ],
+          "extentClassName": "polygon"
+        },
+        "parentSpaceId": 10,
+        "coordinateSystem": {
+          "coordinateSystemClassName": "cartesian2hfd"
+        }
+      }
+    }
+  }
+]
